@@ -1,0 +1,1707 @@
+<xml>
+<!--
+	<galeria tipo="concertos/paisagens/producto/halloween"> 
+		<img>galeria/fotos/foto.jpg</img>
+		<ref>#0000000000</ref>
+		<info>
+			<infobasica>
+				<nome>nome</nome>
+				<desc>desc</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>name</nome>
+				<desc>desc</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>13mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>1/10s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+		<prints>
+			<print>
+				<tamanho>40x60</tamanho>
+				<papel>papel teste2</papel>
+				<preco>14000</preco>
+			</print>
+			<print>
+				<tamanho>40x60</tamanho>
+				<papel>papel teste2</papel>
+				<preco>10000</preco>
+			</print>
+		</prints>
+	</galeria>
+-->	
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/olhodeboi2808202200085.jpg</img>
+		<ref>#0000000079</ref>
+		<info>
+			<infobasica>
+				<nome>Por do Sol sobre a Ponte 25 de Abril</nome>
+				<desc>Vista para a ponte 25 de Abril apartir de Olho de boi, na margem sul do riu tejo perto de Lisboa</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Sunset by Ponte 25 de Abril</nome>
+				<desc>View of the 25 de Abril bridge from Olho de Boi, on the south bank of the Tagus River near Lisbon</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>14mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>72s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/costa1905202200005.jpg</img>
+		<ref>#0000000078</ref>
+		<info>
+			<infobasica>
+				<nome>Casa de praia abandonada</nome>
+				<desc>uma casa na praia da Costa da Caparica onde a areia tem altura suficiente para cobrir o primeiro andar</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Abandoned Beach House</nome>
+				<desc>a house on the beach of Costa da Caparica where the sand is high enough to cover the first floor</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>13mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>30s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Estoril0103202200011.jpg</img>
+		<ref>#0000000077</ref>
+		<info>
+			<infobasica>
+				<nome>Explosão de água</nome>
+				<desc>Agua a movimentar-se na minha direção momentos antes de me molhar</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Water explosion</nome>
+				<desc>Water moving towards me moments before I get wet</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>13mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>1/10s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/MoinhodaMare1501202200036.jpg</img>
+		<ref>#0000000076</ref>
+		<info>
+			<infobasica>
+				<nome>Moinho da Maré</nome>
+				<desc>Primeira fotografia de 2022. Fotografia tirada em Corroios perto de casa numa manha de insonia que me fez sair de casa e visitar o moinho da maré de Corroios antes de tomar o pequeno almoço.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Tide Mill </nome>
+				<desc>First photo of 2022. Photo taken in Corroios near my house on an insomniac morning that made me leave the house and visit the Corroios tide mill before having breakfast.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>105mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/4s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Castelo0512202100008.jpg</img>
+		<ref>#0000000075</ref>
+		<info>
+			<infobasica>
+				<nome>Tempo Medieval</nome>
+				<desc>Esta fotografia já existia na minha cabeça desde a primeira vez que visitei o Castelo de Palmela mas as condições não  eram as ideias assim como todas as vezes que lá voltei. Menos de uma semana antes de tirar esta foto sai de casa e me dirigi para Palmela à pensar que iria conseguir ter as condições que precisava quando um nevoeiro começou a levantar-se impossibilitanto mais uma vez que conseguisse tirar a foto. Desta vez finalmente consegui.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Medieval Time</nome>
+				<desc>This photograph already existed in my head since the first time I visited the Castle of Palmela but the conditions were not the ideal as every time I went back there. Less than a week before taking this photo I left the house and headed to Palmela thinking I would get the conditions I needed when a fog started to rise, making it impossible for me to take the photo again. This time I finally got it. </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>14mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>128s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/OlhodeBoi3011202100021.jpg</img>
+		<ref>#0000000074</ref>
+		<info>
+			<infobasica>
+				<nome>Lisboa</nome>
+				<desc>Lisboa vista da margem sul após o nascer do sol. No centro da imagem pode ser ver o Panteão Nacional.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Lisbon</nome>
+				<desc>Lisbon seen from the south bank after sunrise. In the center of the image can be seen the National Pantheon. </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 80-200mm f2.8 L USM + Kenko 2x teleconverter</lente>
+				<distancia>400mm (200mm + 2x teleconvert)</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/4s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/CovadoVapor0110202100090.jpg</img>
+		<ref>#0000000073</ref>
+		<info>
+			<infobasica>
+				<nome>Farol</nome>
+				<desc>Farol da Cova do Vapor na foz do Tejo ao por do sol.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Lighthouse</nome>
+				<desc>Cova do Vapor lighthouse at the mouth of the Tagus at sunset.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 80-200mm f2.8 L USM</lente>
+				<distancia>200mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>3,2s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/CovadoVapor0110202100053.jpg</img>
+		<ref>#0000000072</ref>
+		<info>
+			<infobasica>
+				<nome>Água a correr</nome>
+				<desc>A água corre por cima das pedras num dos ultimos dias de verão. Fotografia tirada na praia da Costa do Vapor.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Running water</nome>
+				<desc>The water runs over the rocks on one of the last days of summer. Photo taken on the beach at Costa do Vapor.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/2s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/CostadaCaparica0609202100021.jpg</img>
+		<ref>#0000000071</ref>
+		<info>
+			<infobasica>
+				<nome>Casa Abandonada</nome>
+				<desc>Pequena casa de surf na praia da Costa da Caparica, Portugal. Dá pra ver já foram  pranchas de surf a decorar a varanda enquando ou nível inferior vai ficando submerso por baixo das arreias da praia e vento arrasta as nuvens com o passar do tempo.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Abandoned house</nome>
+				<desc>Small surf house on the beach in Costa da Caparica, Portugal. You can see there were surfboards decorating the balcony while the lower level is being submerged under the sands of the beach and the wind drags clouds over time.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>90s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+		<prints>
+			<print>
+				<tamanho>40x60</tamanho>
+				<papel>papel teste2</papel>
+				<preco>14000</preco>
+			</print>
+			<print>
+				<tamanho>40x60</tamanho>
+				<papel>papel teste2</papel>
+				<preco>10000</preco>
+			</print>
+		</prints>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Lisnave2507202100009.jpg</img>
+		<ref>#0000000070</ref>
+		<info>
+			<infobasica>
+				<nome>Estaleiros da Lisnave</nome>
+				<desc>Um símbolo da cidade de Almada, situado nos velhos estaleiros da Lisnave uma estrutura imponente representa o que foi um dia a industria Portuguesa de estaleiros navais. Hoje em dia Os estaleiros estão fechados à espera de um futuro para o espaço que tarda em chegar.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>name</nome>
+				<desc>A symbol of the city of Almada, located in the old shipyards of Lisnave, an imposing structure represents what was once the Portuguese shipyard industry. Today The shipyards are closed waiting for a future for the space that is slow to arrive.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>17mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>45s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/costa2705202100033-Editar.jpg</img>
+		<ref>#0000000069</ref>
+		<info>
+			<infobasica>
+				<nome>Espelho</nome>
+				<desc>Maré baixa nas praias da Costa da Caparica refletindo as cores do ceu na água. Um por do decepcionante mas que me ofereceu esta imagem quando me virei na direcção contraria ao por do sol</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Mirror</nome>
+				<desc>Low tide on the beaches of Costa da Caparica reflecting the colors of the sky in the water. A disappointing sunset that offered me this image when I turned in the opposite direction to the sunset </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f5.6</abertura>
+				<esposicao>13s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif> 
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/seixal2005202100001.jpg</img>
+		<ref>#0000000066</ref>
+		<info>
+			<infobasica>
+				<nome>Barco Abandonado</nome>
+				<desc>Um barco que teve um incêndio à uns anos na entrada do Seixal servio de base para esta fotografia tirada ao por do sol.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Abandoned Boat</nome>
+				<desc>A boat that had a fire a few years ago at the entrance to Seixal is the basis for this photograph taken at sunset. </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/10s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>	
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/covadovapor1905202100002.jpg</img>
+		<ref>#0000000065</ref>
+		<info>
+			<infobasica>
+				<nome>Farol</nome>
+				<desc>Fim do dia na Cova do Vapor, pescadores juntam-se no fim do pontão para tentar obter comida para essa noite e ao longe ve-se o farol.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Lighthouse</nome>
+				<desc>End of the day at Cova do Vapor, fishermen gather at the end of the pontoon to try to get food for that night and in the distance you can see the lighthouse. </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon 80-200 USM f2.8 L</lente>
+				<distancia>200mm</distancia>
+				<abertura>f6.3</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>	
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Olhodeboi0705202100012.jpg</img>
+		<ref>#0000000064</ref>
+		<info>
+			<infobasica>
+				<nome>Tanques</nome>
+				<desc>tanques perto do rio tejo.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Tanks</nome>
+				<desc>tanks near the Tagus River</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f14</abertura>
+				<esposicao>30s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Olhodeboi0705202100016.jpg</img>
+		<ref>#0000000064</ref>
+		<info>
+			<infobasica>
+				<nome>Ama o Tejo</nome>
+				<desc>A frase ama o tejo escrita num barco abandonado nas margens do rio tejo com a ponte 25 de Abril à fente de um por do sol.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Ama o Tejo (Love Tagus)</nome>
+				<desc>The phrase love the Tagus written on an abandoned boat on the banks of the Tagus River with the 25 de Abril bridge in front of a sunset.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>45s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Edificio2404202100015-Editar.jpg</img>
+		<ref>#0000000062</ref>
+		<info>
+			<infobasica>
+				<nome>Edificio Abandonado</nome>
+				<desc>Finalmente começa o desconfinamento, mesmo com algumas restrições sai para fotografar este edificio. Já o tinha fotografado anteriormente mas queria apenas voltar a fotografar fora de casa, qualquer coisa servia. Para fazer esta fotografia utilizei a um filtro de densidade neutra de 10 stops da haida com um adaptador especifico que permite ter filtros de 150mm na sigma 12-24.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Abandoned Building</nome>
+				<desc>Finally, the lack of definition begins, even with some restrictions, he goes out to photograph this building. I had already photographed it before, but I just wanted to shoot again outside the house, anything would do. To make this photo I used a 10 stops neutral density filter from haida with a specific adapter that allows to have 150mm filters in the sigma 12-24. </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>15mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>30s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>	
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/Creme.jpg</img>
+		<ref>#0000000061</ref>
+		<info>
+			<infobasica>
+				<nome>Creme de Mãos</nome>
+				<desc>Creme de mãos da marca Nivia. Fotografia tirada utilizando uma Strip ligth do lado direito, uma flash sem modificador a vir de trás para a frente do lado direito e um reflector do lado esquerdo</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Hand Cream</nome>
+				<desc>Nivia hand cream. Photograph taken using a strip ligth on the right side, a flash with no modifier coming from the back to the front on the right side and a reflector on the left side</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/Zombiehead.jpg</img>
+		<ref>#0000000060</ref>
+		<info>
+			<infobasica>
+				<nome>Zombie</nome>
+				<desc>Transformação de um auto retrato numa imagem inspirada no Walking Dead</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Zombie</nome>
+				<desc>Transforming a self portrait into an image inspired by the Walking Dead</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/Despertador1403202100003.jpg</img>
+		<ref>#0000000059</ref>
+		<info>
+			<infobasica>
+				<nome>Despertador antigo</nome>
+				<desc>Fotografia de um despertador antigo</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Old alarm clock</nome>
+				<desc>Old alarm clock photography</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Tamron 90mm f2.8 Macro</lente>
+				<distancia>90mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/camera1403202100020.jpg</img>
+		<ref>#0000000058</ref>
+		<info>
+			<infobasica>
+				<nome>voigtlander</nome>
+				<desc>Fotografia de uma camera voigtlander antiga</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>voigtlander</nome>
+				<desc>Photograph of an old voigtlander camera</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>canon 50mm f1.8 stm</lente>
+				<distancia>50mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/Cafe0903202100010.jpg</img>
+		<ref>#0000000057</ref>
+		<info>
+			<infobasica>
+				<nome>café</nome>
+				<desc>Fotografia de café tirada em casa para testar um fundo a imitar mandeira. Fotografada com uma softbox e um reflector branco no lado oposto.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>coffee</nome>
+				<desc>Photograph of coffee taken at home to test a background to imitate mandeira. Photographed with a softbox and a white reflector on the opposite side.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>canon 50mm f1.8 stm</lente>
+				<distancia>50mm</distancia>
+				<abertura>f8</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>	
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/Vinagre1001202100009.jpg</img>
+		<ref>#0000000056</ref>
+		<info>
+			<infobasica>
+				<nome>Prisca</nome>
+				<desc>Prisca Vinagre envelhecido em Barricas de Carvalho</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Prisca</nome>
+				<desc>Prisca Aged Vinagar In Oak Barrels</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>XXmm</distancia>
+				<abertura>fXX</abertura>
+				<esposicao>1/XXXs</esposicao>
+				<ISO>XXX ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto"> 
+		<img>galeria/fotos/Vinho do Porto1001202100022.jpg</img>
+		<ref>#0000000055</ref>
+		<info>
+			<infobasica>
+				<nome>Pacheca</nome>
+				<desc>Pacheca, vinho do Porto</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Pacheca</nome>
+				<desc>Pacheca, Port wine</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>96mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>	
+<!--	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Cacilhas0212202000009.jpg</img>
+		<ref>#0000000052</ref>
+		<info>
+			<infobasica>
+				<nome>Cacilheiro</nome>
+				<desc>Todos os dias milhares de pessoas atravessam o rio tejo para trabalharem em Lisboa. Apesar da travessia poder ser feita de carro ou de comboio os cacilheiros continuam a ser a melhor forma de atravessar o rio.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Zombie #1</nome>
+				<desc>Every day thousands of people cross the Tagus River to work in Lisbon. Although the crossing can be done by car or train, the cacilheiros are still the best way to cross the river.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 80-200 f2.8 L USM</lente>
+				<distancia>200mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>1/25s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens"> 
+		<img>galeria/fotos/Cacilhas0111202000017.jpg</img>
+		<ref>#0000000051</ref>
+		<info>
+			<infobasica>
+				<nome>Ponte 25 de Abril</nome>
+				<desc>A Ponte 25 de Abril é uma ponte suspensa rodoferroviária sobre o rio Tejo que liga a cidade de Lisboa (margem norte) à cidade de Almada (margem sul), em Portugal. A ponte atravessa o estuário do Tejo na parte final e mais estreita — o designado gargalo do Tejo.A Ponte tem 2 277 metros de comprimento. Com um vão livre de 1 013 metros, a Ponte 25 de Abril é a 33.ª maior ponte suspensa do mundo. O tabuleiro superior alberga 6 vias rodoviárias (3 por sentido), enquanto que o tabuleiro inferior alberga duas linhas ferroviárias eletrificadas a 25 kv AC. </desc>
+			</infobasica>
+			<basicinfo>
+				<nome>25 de Abril Bridge</nome>
+				<desc>The 25 de Abril Bridge is a railroad-rail suspension bridge over the Tagus River that connects the city of Lisbon (north bank) to the city of Almada (south bank), in Portugal. The bridge crosses the Tagus estuary in the final and narrowest part - the so-called Tagus bottleneck. The bridge is 2,277 meters long. With a free span of 1,013 meters, the 25 de Abril Bridge is the 33rd largest suspension bridge in the world. The upper deck houses 6 roadways (3 per direction), while the lower deck houses two railway lines electrified at 25 kv AC.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>24mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/60s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+-->	
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/halloween0811202000012.jpg</img>
+		<ref>#0000000050</ref>
+		<info>
+			<infobasica>
+				<nome>Zombie #1</nome>
+				<desc>Fotografia do meu filho vestido com a sua roupa de halloween. Fotografia tirada em casa com a ajuda de 2 flashes um com uma softbox 60x90mm com grelha e uma stribox 25x90mm também com grelha</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Zombie #1</nome>
+				<desc>Photograph of my son dressed in his halloween outfit. Picture taken at home with the help of 2 flashes one with a 60x90mm softbox with grid and a 25x90mm stribox also with grid</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>88mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/halloween0811202000014.jpg</img>
+		<ref>#0000000049</ref>
+		<info>
+			<infobasica>
+				<nome>Zombie #2</nome>
+				<desc>Fotografia do meu filho vestido com a sua roupa de halloween. Fotografia tirada em casa com a ajuda de 2 flashes um com uma softbox 60x90mm com grelha e uma stribox 25x90mm também com grelha</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Zombie #1</nome>
+				<desc>Photograph of my son dressed in his halloween outfit. Picture taken at home with the help of 2 flashes one with a 60x90mm softbox with grid and a 25x90mm stribox also with grid</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>80mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/halloween0811202000010.jpg</img>
+		<ref>#0000000048</ref>
+		<info>
+			<infobasica>
+				<nome>Death #1</nome>
+				<desc>Fotografia do meu filho vestido com a sua roupa de halloween. Fotografia tirada em casa com a ajuda de 2 flashes um com uma softbox 60x90mm com grelha e uma stribox 25x90mm também com grelha</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Death #1</nome>
+				<desc>Photograph of my son dressed in his halloween outfit. Picture taken at home with the help of 2 flashes one with a 60x90mm softbox with grid and a 25x90mm stribox also with grid</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>82mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/halloween0811202000009.jpg</img>
+		<ref>#0000000047</ref>
+		<info>
+			<infobasica>
+				<nome>Death #2</nome>
+				<desc>Fotografia do meu filho vestido com a sua roupa de halloween. Fotografia tirada em casa com a ajuda de 2 flashes um com uma softbox 60x90mm com grelha e uma stribox 25x90mm também com grelha</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Death #2</nome>
+				<desc>Photograph of my son dressed in his halloween outfit. Picture taken at home with the help of 2 flashes one with a 60x90mm softbox with grid and a 25x90mm stribox also with grid</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>56mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/halloween0811202000008.jpg</img>
+		<ref>#0000000046</ref>
+		<info>
+			<infobasica>
+				<nome>Death #2</nome>
+				<desc>Fotografia do meu filho vestido com a sua roupa de halloween. Fotografia tirada em casa com a ajuda de 2 flashes um com uma softbox 60x90mm com grelha e uma stribox 25x90mm também com grelha</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Death #2</nome>
+				<desc>Photograph of my son dressed in his halloween outfit. Picture taken at home with the help of 2 flashes one with a 60x90mm softbox with grid and a 25x90mm stribox also with grid</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>50mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="halloween"> 
+		<img>galeria/fotos/helloween2610202000008.jpg</img>
+		<ref>#0000000045</ref>
+		<info>
+			<infobasica>
+				<nome>Demonio</nome>
+				<desc>Auto-retrato de halloween.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Devil</nome>
+				<desc>Halloween self-portrait.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>60mm</distancia>
+				<abertura>f8</abertura>
+				<esposicao>1/160s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Landscape1209202000027.jpg</img>
+		<ref>#0000000044</ref>
+		<info>
+			<infobasica>
+				<nome>Nascer do Sol em Cacilhas</nome>
+				<desc>Fotografia tirada em cacilhas, do lado sul do rio tejo para quem está em lisboa. Uma longa exposição permite uma sensação de calma e ISOlamento a uma extrutra submerça que existe no rio.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Cacilhas Sunrise</nome>
+				<desc>photograph taken in cacilhas, on the south side of the Tagus River for those in Lisbon. A long exposure allows a feeling of calm and ISOlation to a submerged submerge that exists in the river.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 24-105mm f4 L USM</lente>
+				<distancia>24mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>90s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+<!--
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Landscape3108202000004.jpg</img>
+		<ref>#0000000043</ref>
+		<info>
+			<infobasica>
+				<nome>Por do Sol perto do barco</nome>
+				<desc>Fotografia irada numa passagem pelas praias da Costa da Caparica ao por do Sol tendo como primeiro plano umas placas de madeira que puxam a atenção para um barco de pesca que divide a paisagem com o por do sol.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Sunset by the boat</nome>
+				<desc>taken in a passage along the beaches of Costa da Caparica at sunset, with wooden boards as the foreground that draw attention to a fishing boat that divides the landscape with the sunset.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>15mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>2.5s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	-->
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/ViaLactia2507202000006.jpg</img>
+		<ref>#0000000042</ref>
+		<info>
+			<infobasica>
+				<nome>Via Lactea</nome>
+				<desc>A minha primeira fotografia de Via Lactea fotografada perto do cabo expichel.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Milky way</nome>
+				<desc>My first photograph of the Milky Way photographed near the expichel cape.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>15s</esposicao>
+				<ISO>1250 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/produto-016.jpg</img>
+		<ref>#0000000041</ref>
+		<info>
+			<infobasica>
+				<nome>Cachaça Pirassununga</nome>
+				<desc>Fotografia tirada em casa.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Cachaça Pirassununga</nome>
+				<desc>Photograph made at home.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Tamron 90mm f2.8 Macro</lente>
+				<distancia>90mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/cien0306202000021.jpg</img>
+		<ref>#0000000040</ref>
+		<info>
+			<infobasica>
+				<nome>Gel de banho</nome>
+				<desc>Fotografia tirada em casa.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Bath gel</nome>
+				<desc>Photograph made at home.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/tinto2105202000015.jpg</img>
+		<ref>#0000000039</ref>
+		<info>
+			<infobasica>
+				<nome>Porta da Ravessa</nome>
+				<desc>O vinho tinto Porta da Ravessa é um vinho elaborado a partir das castas Trincadeira, Aragonez, Alicante Bouschet e Castelão plantadas em solos principalmente graníticos mas também argilo-calcários e xistosos.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Porta da Ravessa</nome>
+				<desc>The Red wine Porta da Ravessa it’s a wine made from the vine varieties Trincadeira, Aragonez, Alicante Bouschet and Castelão grown mostly in granite soils but also in clay-limestone and schist.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f22</abertura>
+				<esposicao>1,6s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Adraga0907201600022.jpg</img>
+		<ref>#0000000038</ref>
+		<info>
+			<infobasica>
+				<nome>Corrente</nome>
+				<desc>Pequena corrente de agua entre as rochas da praia da Adraga gerada pelo recuar das ondas.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Stream</nome>
+				<desc>Small stream of water generated by the waves receding between the rocks on the Adraga beach.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f22</abertura>
+				<esposicao>1,6s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Arvore2101201800001.jpg</img>
+		<ref>#0000000037</ref>
+		<info>
+			<infobasica>
+				<nome>pequena arvore</nome>
+				<desc>o resto de uma pequena arvore encontrada no caminho para a ponta do mato.</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>small tree</nome>
+				<desc>the rest of a small tree found on the way to the ponta do mato.</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>13mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>121s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Cartaxo2412201900016.jpg</img>
+		<ref>#0000000036</ref>
+		<info>
+			<infobasica>
+				<nome>ponte dona amelia</nome>
+				<desc>A Ponte Rainha D. Amélia, também conhecida por Ponte D. Amélia, é uma antiga ponte ferroviária portuguesa, que foi convertida para uso rodoviário. Foi inaugurada em 14 de Janeiro de 1904, como parte da Linha de Vendas Novas tendo sido substituída em 2001 pela Nova Ponte D. Amélia</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>dona amelia bridge</nome>
+				<desc>280 / 5000
+Resultados da tradução
+The Rainha D. Amélia Bridge, also known as Ponte D. Amélia, is an old Portuguese railway bridge, which was converted for road use. It was inaugurated on January 14, 1904, as part of the Vendas Novas line and was replaced in 2001 by the Nova Ponte D. Amélia </desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/100s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Costa0110201700035.jpg</img>
+		<ref>#0000000035</ref>
+		<info>
+			<infobasica>
+				<nome>barco</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>boat</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>4s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Costa1405201700002.jpg</img>
+		<ref>#0000000034</ref>
+		<info>
+			<infobasica>
+				<nome>Costa da Caparica</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Costa da Caparica</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>4s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Costa1405201700027.jpg</img>
+		<ref>#0000000033</ref>
+		<info>
+			<infobasica>
+				<nome>por cima da rocha</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>hover the rock</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>13s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Costa2504201700006.jpg</img>
+		<ref>#0000000032</ref>
+		<info>
+			<infobasica>
+				<nome>pedras na praia</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>stones on the beach</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>0,6s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Lagoa2412201700006.jpg</img>
+		<ref>#0000000031</ref>
+		<info>
+			<infobasica>
+				<nome>ancora</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>anchor</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f8</abertura>
+				<esposicao>284s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/landscape2710201800014.jpg</img>
+		<ref>#0000000030</ref>
+		<info>
+			<infobasica>
+				<nome>sem trabalho</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>no work</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>301s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/landscape2710201800018.jpg</img>
+		<ref>#0000000029</ref>
+		<info>
+			<infobasica>
+				<nome>barco para reparação</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>boat repair</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>13s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Lighthouse3.jpg</img>
+		<ref>#0000000028</ref>
+		<info>
+			<infobasica>
+				<nome>farol</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>lighthouse</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>19mm</distancia>
+				<abertura>f8</abertura>
+				<esposicao>1/30s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Lisboa1802201700023.jpg</img>
+		<ref>#0000000027</ref>
+		<info>
+			<infobasica>
+				<nome>nascer do sol</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>sunrise</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>13mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+<!--
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/OlhodeBoi0712201900007.jpg</img>
+		<ref>#0000000026</ref>
+		<info>
+			<infobasica>
+				<nome>corda à margem</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>rope to the shore</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>181s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/OlhodeBoi0712201900016.jpg</img>
+		<ref>#0000000025</ref>
+		<info>
+			<infobasica>
+				<nome>por do sol</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>sunset</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>25s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	-->
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/OlhodeBoi2902202000005.jpg</img>
+		<ref>#0000000024</ref>
+		<info>
+			<infobasica>
+				<nome>Olho de Boi</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Olho de Boi</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f11</abertura>
+				<esposicao>1/30s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Paisagem2504201900014.jpg</img>
+		<ref>#0000000023</ref>
+		<info>
+			<infobasica>
+				<nome>autocarro abandonado</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>abandoned bus</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>12mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>90s</esposicao>
+				<ISO>50 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Predios1306201800006.jpg</img>
+		<ref>#0000000022</ref>
+		<info>
+			<infobasica>
+				<nome>prédio abandonado</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+			<nome>abandoned building</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>24mm</distancia>
+				<abertura>f16</abertura>
+				<esposicao>25s</esposicao>
+				<ISO>160 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="paisagens">
+		<img>galeria/fotos/Temple.jpg</img>
+		<ref>#0000000021</ref>
+		<info>
+			<infobasica>
+				<nome>templo</nome>
+				<desc></desc>
+			</infobasica>
+			<basicinfo>
+				<nome>temple</nome>
+				<desc></desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Sigma 12-24mm f/4.5-5.6 DG II HSM</lente>
+				<distancia>22mm</distancia>
+				<abertura>f8</abertura>
+				<esposicao>50s</esposicao>
+				<ISO>160 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/Smirnoff1904202000005.jpg</img>
+		<ref>#0000000020</ref>
+		<info>
+			<infobasica>
+				<nome>garrafa de Smirnoff</nome>
+				<desc>a smirnoff vodka bottle shot on a blue background</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Smirnoff bottle</nome>
+				<desc>a smirnoff vodka bottle shot on a blue background</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>cabon 50mm f1.8 STM</lente>
+				<distancia>59mm</distancia>
+				<abertura>f18</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>100 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/Estudio_0035.jpg</img>
+		<ref>#0000000019</ref>
+		<info>
+			<infobasica>
+				<nome>relógio</nome>
+				<desc>foto tirada durante um workshop de fotografia de estudio</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>watch</nome>
+				<desc>photo taken during a studio photography workshop</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 100mm f/2.8L Macro IS USM</lente>
+				<distancia>100mm</distancia>
+				<abertura>f2.8</abertura>
+				<esposicao>1/25s</esposicao>
+				<ISO>200 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="producto">
+		<img>galeria/fotos/Estudio_0136.jpg</img>
+		<ref>#0000000018</ref>
+		<info>
+			<infobasica>
+				<nome>Vinho tinto</nome>
+				<desc>foto tirada durante um workshop de fotografia de estudio</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Red wine</nome>
+				<desc>photo taken during a studio photography workshop</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 28-80mm f/3.5-5.6 USM</lente>
+				<distancia>69mm</distancia>
+				<abertura>f22</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>200 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Moonspell1208201900051.jpg</img>
+		<ref>#0000000017</ref>
+		<info>
+			<infobasica>
+				<nome>Moonspell</nome>
+				<desc>Moonspell ao vivo nas festa do Barreiro, dia 2019-08-12</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Moonspell</nome>
+				<desc>Moonspell live at Barreiro's festival, 2019-08-12</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 80-200mm f2.8 L USM</lente>
+				<distancia>190mm</distancia>
+				<abertura>f2.8</abertura>
+				<esposicao>1/1250s</esposicao>
+				<ISO>4000 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/BlackWidows1304201900008.jpg</img>
+		<ref>#0000000016</ref>
+		<info>
+			<infobasica>
+				<nome>Black Widows</nome>
+				<desc>Feira do metal de Almada, Ponto de Encontro, dia 2019-04-13</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Black Widows</nome>
+				<desc>Almada metal fair, Ponto de Encontro, 2019-04-13</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2.8</abertura>
+				<esposicao>1/60s</esposicao>
+				<ISO>2500 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Jazz_Me_20140409_0069.jpg</img>
+		<ref>#0000000015</ref>
+		<info>
+			<infobasica>
+				<nome>Mario Gramaço</nome>
+				<desc>Mario Gramaço no jazz'me, Cine Incrivel Almada, 2014-04-09</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Black Widows</nome>
+				<desc>Mario Gramaço at jazz'me, Cine Incrivel Almada, 2014-04-09</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>1/90s</esposicao>
+				<ISO>1600 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Karbonsoul1711201700031.jpg</img>
+		<ref>#0000000014</ref>
+		<info>
+			<infobasica>
+				<nome>Karbonsoul</nome>
+				<desc>Concerto de apresentação do album de Disaffected, 2017-11-17</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Karbonsoul</nome>
+				<desc>Disafect's album release concert, 2017-11-17</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2</abertura>
+				<esposicao>1/1250s</esposicao>
+				<ISO>400 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Sacred Sin and Guests201307270065.jpg</img>
+		<ref>#0000000013</ref>
+		<info>
+			<infobasica>
+				<nome>Sacred Sin and Guests</nome>
+				<desc>António Gião dos Disaffected, um dos convidados dos Sacred Sin, 2013-07-27</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Sacred Sin and Guests</nome>
+				<desc>António Gião from Disaffected as one of Sacred Sin guest's, 2013-07-27</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2</abertura>
+				<esposicao>1/1250s</esposicao>
+				<ISO>400 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Veinless_10_Anos_20131103_0191.jpg</img>
+		<ref>#0000000012</ref>
+		<info>
+			<infobasica>
+				<nome>Veinless</nome>
+				<desc>Concerto de comemoração do 10º aniversario dos Veinless 2013-11-03</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Veinless</nome>
+				<desc>Veinless 10º anniversary commemoration concert</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>1/80s</esposicao>
+				<ISO>1600 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Jazz_Me_20140603_0024.jpg</img>
+		<ref>#0000000011</ref>
+		<info>
+			<infobasica>
+				<nome>Jazz'me</nome>
+				<desc>Maria João Matos e Luis Gonzaga no Cine Incrivel Almadense 2014-06-03</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Veinless</nome>
+				<desc>Maria João Matos and Luis Gonzaga at Cine Incrivel Almadense 2014-06-03</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>1/80s</esposicao>
+				<ISO>1600 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Secret_Lie_20140209_0136.jpg</img>
+		<ref>#0000000010</ref>
+		<info>
+			<infobasica>
+				<nome>Secret Lie</nome>
+				<desc>Concerto de Secret Lie no Cine Incrivel Almadense 2014-02-09</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Secret Lie</nome>
+				<desc>Secret Lie concert at Cine Incrivel Almadense 2014-02-09</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2.5</abertura>
+				<esposicao>1/100s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Jazz Me Paula Oliveira e Carlos Barreto201308060014.jpg</img>
+		<ref>#0000000009</ref>
+		<info>
+			<infobasica>
+				<nome>Carlos Barreto</nome>
+				<desc>Carlos Barreto a tocar para a Paula Oliveira no jazz'me Cine Incrivel Almadense 2013-08-06</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Carlos Barreto</nome>
+				<desc>Carlos Barreto playing for Paula Oliveira at jazz'me, Cine Incrivel Almadense 2013-08-06</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8	</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>1600 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/WC Noise0015.jpg</img>
+		<ref>#0000000008</ref>
+		<info>
+			<infobasica>
+				<nome>WC Noise</nome>
+				<desc>WC Noise ao vivo no Side B, em Benavente, 2010-05-29</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>WC Noise</nome>
+				<desc>WC Noise live at Side B, em Benavente, 2010-05-29</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8	</abertura>
+				<esposicao>1/80s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Decayed0044.jpg</img>
+		<ref>#0000000007</ref>
+		<info>
+			<infobasica>
+				<nome>Decayed</nome>
+				<desc>Decayed ao vivo no Side B, em Benavente, 2010-05-29</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Decayed</nome>
+				<desc>Decayed live at Side B, em Benavente, 2010-05-29</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f1.8	</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Holocausto0005.jpg</img>
+		<ref>#0000000006</ref>
+		<info>
+			<infobasica>
+				<nome>Holocausto Canibal</nome>
+				<desc>Holocausto Canibal ao vivo no Side B, em Benavente, 2010-05-29</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Holocausto Canibal</nome>
+				<desc>Holocausto Canibal live at Side B, em Benavente, 2010-05-29</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f1.8	</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Bizarra0026.jpg</img>
+		<ref>#0000000005</ref>
+		<info>
+			<infobasica>
+				<nome>Bizarra Locomotiva</nome>
+				<desc>Bizarra Locomotiva ao vivo no Ponto de encontro Almada, 2010-03-19</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Bizarra Locomotiva</nome>
+				<desc>Bizarra Locomotiva live at Ponto de encontro Almada, 2010-03-19</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 28mm f1.8 USM</lente>
+				<distancia>28mm</distancia>
+				<abertura>f1.8	</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Wako20130519_0046.jpg</img>
+		<ref>#0000000004</ref>
+		<info>
+			<infobasica>
+				<nome>W.A.K.O.</nome>
+				<desc>W.A.K.O. ao vivo no Cine Incrivel Almadense, dia 2013-05-09</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>W.A.K.O.</nome>
+				<desc>W.A.K.O. live at Cine Incrivel Almadense, day 2013-05-09</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>1/80s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Annihilation20130518_0020.jpg</img>
+		<ref>#0000000003</ref>
+		<info>
+			<infobasica>
+				<nome>Annihilation</nome>
+				<desc>Annihilation ao vivo no Cine Incrivel Almadense, dia 2013-05-09</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>W.A.K.O.</nome>
+				<desc>Annihilation live at Cine Incrivel Almadense, day 2013-05-09</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 1000D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f1.8</abertura>
+				<esposicao>1/50s</esposicao>
+				<ISO>800 ISO</ISO>
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Disaffected1811201700811.jpg</img>
+		<ref>#0000000002</ref>
+		<info>
+			<infobasica>
+				<nome>Disaffected</nome>
+				<desc>Concerto de apresentação do album de Disaffected, 2017-11-17</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Disaffected</nome>
+				<desc>Disaffected's album release concert, 2017-11-17</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2.8</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>4000 ISO</ISO>			
+			</exif>
+		</info>
+	</galeria>
+	<galeria tipo="concertos">
+		<img>galeria/fotos/Grog0011.jpg</img>
+		<ref>#0000000001</ref>
+		<info>
+			<infobasica>
+				<nome>Grog</nome>
+				<desc>Grog ao vivo no Side B, em Benavente, 2010-02-28</desc>
+			</infobasica>
+			<basicinfo>
+				<nome>Grog</nome>
+				<desc>Grog live at Side B, em Benavente, 2010-02-28</desc>
+			</basicinfo>
+			<exif>
+				<camera>canon 6D</camera>
+				<lente>Canon EF 85mm f1.8 USM</lente>
+				<distancia>85mm</distancia>
+				<abertura>f2.8</abertura>
+				<esposicao>1/125s</esposicao>
+				<ISO>4000 ISO</ISO>			
+			</exif>
+		</info>
+	</galeria>
+</xml>

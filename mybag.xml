@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<bag> 
+		<info linguagem="both" titulo="Sim" fwasome="fas fa-camera">Cameras:</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/dslr813.html">Canon 6D</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/dslr798.html">Canon 1000D</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="far fa-circle">Lentes</info>
+		<info linguagem="en" titulo="Sim" fwasome="far fa-circle">Lenses</info>
+		
+		<info linguagem="both" link="https://www.sigmaphoto.com/12-24mm-f4-5-5-6-dg-hsm-ii">Sigma 12-24mm f/4.5-5.6 DG II HSM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef387.html">Canon EF 24-105mm f4 L USM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef285.html">Canon EF 80-200 f2.8 L USM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef331.html">Canon EF 28mm f1.8 USM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef451.html">Canon EF 50mm f1.8 STM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef313.html">Canon EF 85mm f1.8 USM</info>
+		<info linguagem="both">Tameron 90mm f2.8 Macro</info>
+		<info linguagem="both" link="https://zyoptics.net/product/mitakon-creator-20mm-f-2/">Mitakon Creator 20mm f/2 4x - 4.5x Macro</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef410.html">EF-S18-55mm f/3.5-5.6 III</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef350.html">Canon 75-300 EF f4-5.6 iii USM</info>
+		<info linguagem="both" link="https://global.canon/en/c-museum/product/ef303.html">Canon 28-80 EF f/3.5-5.6 USM</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="fas fa-ring">Teleconversor</info>
+		<info linguagem="en" titulo="Sim" fwasome="fas fa-ring">Teleconverter</info>
+		
+		<info linguagem="both">Kenko 2x teleconversor</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="far fa-square">Filtros</info>
+		<info linguagem="en" titulo="Sim" fwasome="far fa-square">Filters</info>
+		
+		<info linguagem="pt">Suporte de filtros da Haida de 150mm</info>
+		<info linguagem="en">Haida 150mm filter holder</info>
+		
+		<info linguagem="both">Haida 150x150mm ND8 - 0.9 - 3 stops</info>
+		<info linguagem="both">Haida 150x150mm ND64 - 1.8 - 6 stops</info>
+		<info linguagem="both">Haida 150x150mm ND1000 -3.0 - 10 stops</info>
+		<info linguagem="both">Formatt Hitech 150x170mm GND4 - 0.6 - 2 stops</info>
+		<info linguagem="both">Lee 150x170mm GND8 - 0.9 - 3 stops</info>
+		<info linguagem="both">Rolley 150x170mm Pro Mark II GND32 - 1.5 - 5 stops</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="fas fa-chevron-up">Tripes e monopés</info>
+		<info linguagem="en" titulo="Sim" fwasome="fas fa-chevron-up">Tripods and monopods</info>
+		
+		<info linguagem="both">ARTCISE AS80C Carbon tripod</info>
+		<info linguagem="both">ROLLEI Traveler No. 1 Carbon</info>
+		<info linguagem="both" link="https://www.manfrotto.com/global/element-monopod-aluminium-red-mmelea5rd/">Manfrotto Element Monopod Aluminium Red</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="fas fa-suitcase-rolling">Sacos/mochilas</info>
+		<info linguagem="en" titulo="Sim" fwasome="fas fa-suitcase-rolling">Bags/backpacks</info>
+		
+		<info linguagem="both">Haida 150mm system filter bag</info>
+		<info linguagem="both">Delsey cortex 03</info>
+		<info linguagem="both">Thinktank retrospective 30</info>
+		<info linguagem="both" link="https://www.gitzo.com/ie-en/adventury-30l-camera-backpack-for-dslr-gcb-avt-bp-30/">Gitzo Adventury 30L</info>
+		
+		<info linguagem="pt" titulo="Sim" fwasome="fas fa-laptop">Computador</info>
+		<info linguagem="en" titulo="Sim" fwasome="fas fa-ring">Computer</info>
+		
+		<info linguagem="both">Asus X555L</info>
+		<info linguagem="both" link="https://www.benq.eu/pt-pt/monitor/photographer/sw240.html">Benq SW240</info>
+		<info linguagem="both">Seagate 2 bays NAS</info>
+		<info linguagem="pt">Dois discos hdd de 3 Tb para a NAS</info>
+		<info linguagem="en">Two 3 Tb hdd Harddrives for the NAS</info>
+		<info linguagem="both" link="https://www.wacom.com/en-/products/pen-tablets/intuos-photo">Wacom intuos photo S</info>
+	</bag>

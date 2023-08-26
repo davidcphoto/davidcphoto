@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artigos>
+	<categoria  nome="Composição" name="Composition" >
+		<artigo nome="Ponto" name="Lines" icon="far fa-dot-circle">
+			<texto linguagem="en" tipo="p">What is a point in photo composition? Basically is when a small subject attracts the viewer’s eye in a wider picture.</texto>
+			<texto linguagem="en" tipo="p">This can be achieved in many ways, contrast, color, focus are just a few ways the eye can be directed to look at a particular element in the picture.</texto>
+			<texto linguagem="pt" tipo="p">O que é um ponto na composição de uma fotografia? Basicamente, é quando um objeto pequeno atrai a atenção do observador em uma imagem mais ampla.</texto>
+			<texto linguagem="pt" tipo="p">Isso pode ser alcançado de várias maneiras, contraste, cor, foco são apenas algumas maneiras pelas quais os olhos podem ser direcionados para um elemento específico na imagem.</texto>
+			<imagem alinhado="left">galeria/site/Parapente_20150222_0003.jpg</imagem>
+			<texto linguagem="en" tipo="p">The paraglider in the picture on the left attracts the eye because of the contrast with the much brighter sky.</texto>
+			<texto linguagem="en" tipo="p">A point in a picture can be used may ways, for me this picture of the paraglider as almost a religious message as is shows the insignificance of man in comparison to nature but that’s my interpretation of the picture.</texto>
+			<texto linguagem="pt" tipo="p">O parapente da foto à esquerda atrai a atenção por causa do contraste com o céu muito mais claro.</texto>
+			<texto linguagem="pt" tipo="p">Um ponto em uma imagem pode ser usado de várias maneiras, para mim esta imagem do parapente quase como uma mensagem religiosa mostra a insignificância do homem em comparação com a natureza, mas esta é a minha interpretação da imagem.</texto>
+			<imagem alinhado="right">galeria/site/Veinless_10_Anos_20131103_0086.jpg</imagem>
+			<texto linguagem="en" tipo="p">The light on the arm of this vocalist from Veinless is a point that also attracts by contrast. Our eyes are pulled by the brightest elements in the picture.</texto>
+			<texto linguagem="en" tipo="p">It's also interesting to notice that the brightest elements seem to be pulled forward by in relation to the darker elements that are pushed back by comparison.</texto>
+			<texto linguagem="en" tipo="p">Color can also help to direct the attention to a point but I will create post dedicated to color so I’m not going to write about it for now.</texto>
+			<texto linguagem="en" tipo="p">What is important to realize is that a small element in a picture is a point and can be used as the simplest element on photo composition.</texto> 
+			<texto linguagem="pt" tipo="p">A luz no braço do vocalista do Veinless é um ponto que também atrai pelo contraste. Nossos olhos são atraídos pelos elementos mais brilhantes da imagem.</texto>
+			<texto linguagem="pt" tipo="p">Também é interessante notar que os elementos mais brilhantes parecem ser puxados para frente em relação aos elementos mais escuros que são empurrados para trás.</texto>
+			<texto linguagem="pt" tipo="p">A cor também pode ajudar a direcionar a atenção para um ponto, mas vou criar uma postagem dedicada à cor, então não vou escrever sobre isso por agora.</texto>
+			<texto linguagem="pt" tipo="p">O que é importante perceber é que um pequeno elemento em uma imagem é um ponto e pode ser usado como o elemento mais simples na composição da foto.</texto> 
+		</artigo>
+		<artigo nome="Linhas" name="Lines" icon="fas fa-grip-lines">
+			<imagem alinhado="left">galeria/fotos/Cartaxo2412201900016.jpg</imagem>
+			<texto linguagem="en" tipo="p">Lines are the compositional element that I use the most. They help us give perspective, direction and movement to a picture.</texto>
+			<texto linguagem="en" tipo="p">Lines can be seen as a group of points that give us a direction guiding the viewer's eye and can be characterized by shape and direction. They can also be explicit or implicit depending if they exist as fisical objects on the picture or are seen by the viewer without actuary existing.</texto>
+			<texto linguagem="en" tipo="p">Different line directions have different meanings and can influence greatly the history you’re trying to tell.</texto>
+			<texto linguagem="en" tipo="p">The lines within your image can also help define if the image’s framing works best as a landscape or portrait orientation.</texto> 
+			<texto linguagem="pt" tipo="p">Lines are the compositional element that I use the most. They help us give perspective, direction and movement to a picture.</texto>
+			<texto linguagem="pt" tipo="p">Lines can be seen as a group of points that give us a direction guiding the viewer's eye and can be characterized by shape, direction. They can also be explicit or implicit depending if they exist on the picture or are seen by the viewer without actuary existing.</texto>
+			<texto linguagem="pt" tipo="p">Different line directions have different meanings and can influence greatly the history you’re trying to tell.</texto>
+			<texto linguagem="pt" tipo="p">The lines within your image can also help define if the image’s framing works best as a landscape or portrait orientation.</texto> 
+			<texto linguagem="en" tipo="h3">Different line directions</texto>
+			<texto linguagem="pt" tipo="h3">Different line directions</texto>
+			<imagem alinhado="right">galeria/site/Image00001.jpg</imagem>
+			<texto linguagem="en" tipo="p"><b>Horizontal lines</b> give stability and calmness to a picture.  The horizon is one of the strongest horizontal lines out there. Nothing like a good sunset on a beach after a long day's to relax right? Horizontal line ....</texto>
+			<texto linguagem="pt" tipo="p">Horizontal lines give stability and calmness to a picture.  The horizon is one of the strongest horizontal lines out there. Nothing like a good sunset on a beach after a long day's to relax right? Horizontal line ....</texto>
+			<imagem alinhado="left">galeria/site/Casa_das_Maquinas_20150308_0001.jpg</imagem>
+			<texto linguagem="en" tipo="p">Vertical lines bring us the idea of, size, power and strength. They can also be used to give perspective, when two or more vertical lines converge to a point are interpreted by our brains as parallel lines that stretch far away. Vertical lines also can be used as a separation between two contrasting elements.</texto>
+			<texto linguagem="pt" tipo="p">Vertical lines bring us the idea of, size, power and strength. They can also be used to give perspective, when two or more vertical lines converge to a point are interpreted by our brains as parallel lines that stretch far away. Vertical lines also can be used as a separation between two contrasting elements.</texto>
+			<imagem alinhado="right">galeria/fotos/Sacred Sin and Guests201307270065.jpg</imagem>
+			<texto linguagem="en" tipo="p">Diagonal lines are more dynamic a give us movement, direction. A diagonal line from the top left to the bottom right seems to be approaching the viewer a bottom left to the top right seems to move away.</texto>
+			<texto linguagem="pt" tipo="p">Diagonal lines are more dynamic a give us movement, direction. A diagonal line from the top left to the bottom right seems to be approaching the viewer a bottom left to the top right seems to move away.</texto>
+			<imagem alinhado="left">galeria/site/Sol de Inverno.jpg</imagem>
+			<texto linguagem="en" tipo="p">Curves like diagonal lines also bring movement to a picture but in a more subtle way.</texto>
+			<texto linguagem="pt" tipo="p">Curves like diagonal lines also bring movement to a picture but in a more subtle way.</texto>
+			<imagem alinhado="right">galeria/site/Lisboa_0027.jpg</imagem>
+			<texto linguagem="en" tipo="p">S curves allow for even bigger dynamic in the movement allowing the viewer’s eyes to travel within the picture.</texto>
+			<texto linguagem="pt" tipo="p">S curves allow for even bigger dynamic in the movement allowing the viewer’s eyes to travel within the picture.</texto>
+			<texto linguagem="en" tipo="h3">Explicit and implicit lines</texto>
+			<texto linguagem="pt" tipo="h3">Explicit and implicit lines</texto>
+			<imagem alinhado="left">galeria/site/Jazz Me Maria Morbey e Emilio Robalo20130724_0038.jpg</imagem>
+			<texto linguagem="en" tipo="p">Explicit lines are all the lines that physically exist in the image you're creating. Streets, lamp polls, the horizon...</texto>
+			<texto linguagem="en" tipo="p">Implicit lines are lines that actually aren't in your picture but are drawn by our brains when observing it. The direction someone's looking, as in the exchange of looks in the picture of the two musicians on the right, or the direction a walking person.</texto>
+			<texto linguagem="pt" tipo="p">Explicit lines are all the lines that physically exist in the image you're creating. Streets, lamp polls, the horizon...</texto>
+			<texto linguagem="pt" tipo="p">Implicit lines are lines that actually aren't in your picture but are drawn by our brains when observing it. The direction someone's looking, as in the exchange of looks in the picture of the two musicians on the right, or the direction a walking person.</texto>
+
+		</artigo>
+		<artigo nome="Formas" name="Shapes" icon="fas fa-shapes">
+			<imagem alinhado="left">galeria/fotos/foto.jpg</imagem>
+			<texto linguagem="en" tipo="p">What is important to realize is that a small element in a picture is a point and can be used as the simplest element on photo composition.</texto> 
+		</artigo>
+	</categoria>
+</artigos>

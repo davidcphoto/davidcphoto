@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<TITLE>David Canto</TITLE>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta property="og:title" content="David Canto Photography"/>
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.davidcphoto.com/"/>
+		<meta property="og:image" content="http://www.davidcphoto.com/galeria/site/BWLandscape.jpg"/>
+		<link rel="stylesheet" type="text/css" href="estiloNew.css"/>
+		<link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet"> 		
+		<script src="https://kit.fontawesome.com/30429620c9.js" crossorigin="anonymous"></script>
+
+	</head>	
+
+	<body onload = "inicio()">
+				
+		<div id="grid-container">
+			<div id="header" class="w3-animate-top">
+						
+				<div id="menu" style="z-index:-1;"  class="menu menu--closed">
+				
+					<div class="button" style="z-index: 20;" onclick="clicarmenu()">
+						<span> </span>
+						<span> </span>
+						<span> </span>
+					</div>
+					
+					<div class="tools tools--hidden">
+						<div style="opacity:0; z-index: -20;" class="menuitem" href="#"><i class="fas fa-info"></i>
+						</div>
+						<a onclick="clicar('mninfo')" class="menuitem" href="#">
+							<span id="tttinfo" class="tooltiptext">Info</span>
+							<i class="fas fa-info"></i>
+						</a>
+						
+						<div id="mninfo" class="submenu submenuinvisivel"> 
+							<a onclick="clicar('mnnoticias')" id="mnnoticias" class="submenuitem" href="#">
+								<span id="tttnews" class="tooltiptext">News</span>
+								<i class="fas fa-newspaper"></i>
+							</a>
+							<a onclick="clicar('mnequipamento')" id="mnequipamento" class="submenuitem" href="#">
+								<span id="tttcamerabag" class="tooltiptext">Camera Bag</span>
+								<i class="fas fa-camera"></i>
+							</a>
+							<a onclick="clicar('mncontactos')" id="mncontactos" class="submenuitem" href="#">
+								<span id="tttContactos" class="tooltiptext">Contacts</span>
+								<i class="far fa-envelope"></i>
+							</a>
+							<a onclick="clicar('mneu')" id="mneu" class="submenuitem" href="#">
+								<span id="tttAbout" class="tooltiptext">About me</span>
+								<i class="fas fa-user"></i>
+							</a>
+						</div>
+						<a onclick="clicar('mngalerias')"  class="menuitem" href="#">
+							<span id="tttgalerias" class="tooltiptext">Photo galleries</span>
+							<i class="fas fa-image"></i>
+						</a>
+						<div id="mngalerias" class="submenu submenuinvisivel"> 
+							<a onclick="clicar('concertos')" id="concertos" class="submenuitem" href="#">
+								<span id="tttConcertos" class="tooltiptext">Concert Photography</span>
+								<i class="fas fa-music"></i>
+							</a>
+							<a onclick="clicar('paisagens')" id="paisagens" class="submenuitem" href="#">
+								<span id="tttPaisagens" class="tooltiptext">Landscape Photography</span>
+								<i class="fas fa-image"></i>
+							</a>
+							<a onclick="clicar('producto')" id="producto" class="submenuitem" href="#">
+								<span id="tttproduto" class="tooltiptext">Product Photography</span>
+								<i class="fas fa-wine-glass-alt"></i>
+							</a>
+							<a onclick="clicar('halloween')" id="halloween" class="submenuitem" href="#">
+								<span id="ttthalloween" class="tooltiptext">Halloween Photography</span>
+								<i class="fas fa-ghost"></i>
+							</a>
+						</div>
+						<a onclick="clicar('mndownloads')"  class="menuitem" href="#">
+							<span class="tooltiptext">Downloads</span>
+							<i class="fas fa-file-download"></i>
+						</a>
+						<div id="mndownloads" class="submenu submenuinvisivel"> 
+							<a onclick="clicar('mnaccoes')" id="mnaccoes" class="submenuitem" href="#">
+								<span id="tttactions" class="tooltiptext">Photoshop Actions</span>
+								<i class="fas fa-play"></i>
+							</a>
+						</div>
+						<a onclick="clicar('mnlinks')"  class="menuitem" href="#">
+							<span class="tooltiptext">Links</span>
+							<i class="fas fa-link"></i>
+						</a>
+						<div id="mnlinks" class="submenu submenuinvisivel"> 
+							<a onclick="fecharmenu()" id="mnfacebook" class="submenuitem" href="https://www.facebook.com/DavidCantoPhotography/" target='_blank'">
+								<span class="tooltiptext">Facebook</span>
+								<i class="fab fa-facebook-square"></i>
+							</a>
+							<a onclick="fecharmenu()" id="mninstagram" class="submenuitem" href="https://www.instagram.com/davidcantophotography/" target='_blank'>
+								<span class="tooltiptext">Instragram</span>
+								<i class="fab fa-instagram"></i>
+							</a>
+							<a onclick="fecharmenu()" id="mntwitter" class="submenuitem" href="https://twitter.com/Davidcantophoto" target='_blank'>
+								<span class="tooltiptext">Twitter</span>
+								<i class="fab fa-twitter"></i>
+							</a>
+							<a onclick="fecharmenu()" id="mnolhares" class="submenuitem" href="https://olhares.com/davidcanto" target='_blank'>
+								<span class="tooltiptext">Olhares</span>
+								<i class="fas fa-eye"></i>
+							</a>
+							<a onclick="fecharmenu()" id="mnviewbug" class="submenuitem" href="https://www.viewbug.com/member/davidcanto" target='_blank'>V<span class="tooltiptext">Viewbug</span></a>
+						</div>
+					</div>
+				</div>
+				<div>
+					<img src="galeria\site\Logo.png" id="logo"></img> 
+				</div>
+
+			</div>
+			<div id="corpo">
+				<img id="desfoquealto" class="desfoque" src="galeria\site\desfoquecima2.png"></img>
+				<div id="interior">
+				</div>
+				<img id="desfoquebaixo" class="desfoque" src="galeria\site\desfoquebaixo2.png"></img>
+			</div>
+
+			
+			<div id="footer">
+				
+				<p>Copyright © David Canto - 2021 Todos os direitos reservados</p>
+			
+			</div>
+		</div>	
+	<!-- The Modal -->
+		<div id="myModal" class="modal">
+			<span id="descricao" onclick="infofoto(this.id);"><i class="fas fa-comment-alt"></i></span>
+			<span id="exif" onclick="infofoto(this.id);"><i class="fas fa-info"></i></span>
+			<span id="prints" onclick="infofoto(this.id);"><i class="fas fa-print"></i></span>
+			<span id="close" onclick="clicarmodal();"><i class="fas fa-times-circle"></i></span>
+			<span id="esq" onclick="troca('esquerda');"><i class="fas fa-arrow-alt-circle-left"></i></span>
+			<span id="dir" onclick="troca('direita');"><i class="fas fa-arrow-alt-circle-right"></i></span>
+			<div>
+				<img class="modal-content" id="myImg" onclick="mostrarinfo()" >
+				<img class="modal-content" id="myImgOld" >
+			</div>
+			<div id="textofoto">
+			</div>
+		</div>
+		
+	<script type="text/javascript">
+
+
+/************************************************************************************/
+/*                 analitics                                                        */	
+/************************************************************************************/	
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-28318031-1"]);
+  _gaq.push(["_trackPageview"]);
+ 
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+/************************************************************************************/
+/*                 Variaveis globais                                                */	
+/************************************************************************************/	
+var indice = 0;
+			
+document.getElementById("myImg").addEventListener("animationend", removeanimacao("myImg", "animationEsq"));
+document.getElementById("myImg").addEventListener("animationend", removeanimacao("myImgOld", "animationEsq"));
+
+
+var ts_x;
+var ts_y;
+document.getElementById("myImg").addEventListener('touchstart', function(e) {
+	console.log("toque");
+   e.preventDefault();
+   var touch = e.changedTouches[0];
+   ts_x = touch.pageX;
+   ts_y = touch.pageY;
+   
+}, false);
+
+
+document.getElementById("myImg").addEventListener('touchmove', function(e) {
+	console.log("movimento");
+   e.preventDefault();
+   var touch = e.changedTouches[0];
+   ts_xf = touch.pageX - ts_x;
+   ts_yf = touch.pageY - ts_y;
+	console.log("ts_xf", ts_xf.toFixed(0));
+   
+	transforma ="translateX(";
+	frase=transforma.concat(ts_xf.toFixed(0),"px)");
+    //frase=transforma.concat(ts_xf.toFixed(0),"px) scale(0) rotate3d(1, 1, 1, ",ts_xf.toFixed(0),"deg)");
+	
+	document.getElementById("myImg").style.transform = frase;
+   console.log(frase);
+   //translateX(1000px) scale(0) rotate3d(1, 1, 1, -360deg);
+}, false);
+
+
+document.getElementById("myImg").addEventListener('touchend', function(e) {
+   e.preventDefault();
+   var touch = e.changedTouches[0];
+   td_x = touch.pageX - ts_x; // deslocamento na horizontal
+   td_y = touch.pageY - ts_y; // deslocamento na vertical
+   // O movimento principal foi vertical ou horizontal?
+   document.getElementById("myImg").style.transform = "none";
+   
+   
+   if( Math.abs( td_x ) > Math.abs( td_y ) ) {
+      // é horizontal
+	  console.log("horizontal");
+      if( td_x < 0 ) {
+         // é para esquerda
+		 console.log("esquerda");
+		 troca('direita');
+      } else {
+         // direita
+		 console.log("direita");
+		 troca('esquerda');
+      }
+   } /*else {
+      // é vertical
+      if( td_y < 0 ) {
+         // cima
+      } else {
+         // baixo
+      }*/
+
+   
+
+}, false);	
+
+
+
+/************************************************************************************/
+/*                 forçar alteração do historico                                    */	
+/************************************************************************************/	
+window.onpopstate = function(event) {
+	if (JSON.stringify(event.state) != "null")
+		{
+		inicio();
+		}
+
+};
+function goBack() {
+    window.history.back();
+}
+/************************************************************************************/	
+/*                 Traduzir                                                         */	
+/************************************************************************************/	
+
+function Traduzir() {
+		
+	console.log("Traduzir");
+	
+	var lang = navigator.language;
+	
+	console.log("Liguagem " + lang);
+	
+	if (lang.includes("pt"))  	 
+		{
+		document.getElementById("tttinfo").innerHTML="Informações";
+		document.getElementById("tttnews").innerHTML="Noticias";
+		document.getElementById("tttcamerabag").innerHTML="Lista de Equipamento";
+		document.getElementById("tttactions").innerHTML="Acções para Photoshop";
+		document.getElementById("tttproduto").innerHTML="Fotografia de produto";
+		document.getElementById("ttthalloween").innerHTML="Retratos de Halloween";
+		document.getElementById("tttPaisagens").innerHTML="Paisagens";
+		document.getElementById("tttConcertos").innerHTML="Fotografia de Concertos";
+		document.getElementById("tttgalerias").innerHTML="Galerias de fotografia";
+		document.getElementById("tttAbout").innerHTML="Sobre mim";
+		document.getElementById("tttContactos").innerHTML="Contactos";
+		}
+
+};
+/************************************************************************************/
+/*                 validar que não é Internet Explorer                              */	
+/************************************************************************************/	
+
+	function inicio() {
+	
+		console.log("inicio");
+	
+		var ua = window.navigator.userAgent;
+		var msie = ua.indexOf("MSIE ");
+
+		if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))  // If Internet Explorer, return version number
+		{
+			console.log("Está a utiizar o Internet Explorer");
+			document.getElementById("galerias").innerHTML="<p style='color:red;'>this website isn't compatible with internet explorer for a better experience use Chrome, Firefox or Edge</p>";
+		}
+		else{
+			console.log("Não está a utiizar o Internet Explorer");
+			}
+        /*alert("The URL of this page is: " + window.location.href);
+			Consulta("mnnoticias");*/
+			
+		var questao = window.location.search;
+		
+		
+		var mostar = questao.substr(3);
+		
+		console.log("mostar do historico ", mostar, "da questao ", questao);
+		
+
+		
+		if (mostar=="")
+			{
+			Consulta("mnnoticias");
+			}
+		else
+			{
+			Consulta(mostar);
+		}
+		
+		
+		Traduzir();
+	};
+
+/************************************************************************************/
+/*                 clicar no menu                                                   */	
+/************************************************************************************/		
+	function clicarmenu() {
+		
+		console.log("clicarmenu");
+		
+		var menu = document.getElementById("menu");
+		
+		if (menu.classList.contains("menu--closed")==true) {
+			
+			console.log("Abrir Menu");
+			
+			document.getElementById("menu").classList.remove("menu--closed");
+			document.getElementById("menu").classList.add("menu--open");
+			submenuvisivel();
+			
+			
+		  } else {
+			console.log("Fechar Menu");
+			
+			fecharmenu();
+			
+		  }
+		  
+	};
+	
+/************************************************************************************/
+/*                 tornar o menu visivel                                            */	
+/************************************************************************************/		
+	function submenuvisivel() {
+		
+		console.log("submenuvisivel");
+		
+		var item=document.getElementsByClassName("menuitem");
+		
+		document.getElementById("menu").style.height="400px";
+		
+		for (i = 0; i < item.length; i++) {
+			
+				document.getElementsByClassName("menuitem")[i].classList.add("menuitemvisivel");
+			}
+		  
+	};
+	
+	
+
+/************************************************************************************/
+/*                 tornar o menu invisivel                                          */	
+/************************************************************************************/		
+	function submenuinvisivel() {
+		
+		console.log("submenuinvisivel");
+		
+		var item=document.getElementsByClassName("menuitem");
+		
+		document.getElementById("menu").style.height="70px";
+		
+		for (i = 0; i < item.length; i++) {
+			
+				document.getElementsByClassName("menuitem")[i].classList.remove("menuitemvisivel");
+			}
+		  
+	};
+/************************************************************************************/
+/*                 clicar                                                           */	
+/************************************************************************************/		
+	function clicar(clicado) {
+		
+		console.log("menu ", clicado);
+		
+		var activo=document.getElementsByClassName("submenuvisivel");
+		
+		if (document.getElementById(clicado).classList.contains("submenuinvisivel")==true) {
+		
+			console.log("mostrar menu ", clicado);	
+
+			if (activo.length>0) {
+				console.log("menu já aberto terá de fechar ", clicado);	
+				escondersubmenus(clicado);
+			}
+			
+			document.getElementById(clicado).classList.add("submenuvisivel");
+			document.getElementById(clicado).classList.remove("submenuinvisivel");
+			
+			switch (clicado){
+			
+				case "mninfo":
+					document.getElementById("menu").style.height="600px";
+					break;
+			
+				case "mngalerias":
+					document.getElementById("menu").style.height="600px";
+					break;
+			
+				case "mndownloads":
+					document.getElementById("menu").style.height="450px";
+					break;
+			
+				case "mnlinks":
+					document.getElementById("menu").style.height="650px";
+					break;
+			
+				default:
+					alert("opção não existe " & clicado);
+					break;
+			}
+		
+		} else {
+		
+			console.log("esconder menu ", clicado);	
+			
+			switch (clicado){
+			
+				case "mninfo":
+				case "mngalerias":
+				case "mndownloads":
+				case "mnlinks":
+		
+					escondersubmenus(clicado);
+			  
+					document.getElementById(clicado).classList.remove("submenuvisivel");
+					document.getElementById(clicado).classList.add("submenuinvisivel");
+					document.getElementById("menu").style.height="350px";	
+					
+					break;	
+
+				case "mnnoticias":
+				case "mnequipamento":
+				case "mncontactos":
+				case "mneu":
+				case "mnaccoes":
+				
+				case "concertos":
+				case "paisagens":
+				case "producto":
+				case "halloween":
+				
+					corpo.scrollTo(0, 0); 
+					Consulta(clicado);
+					break;
+					
+				
+				case "links":
+					document.getElementById("menu").classList.remove("menu--open");
+					document.getElementById("menu").classList.add("menu--closed");
+					submenuinvisivel();
+					escondersubmenus();			
+					break;
+				default:
+					alert("opção não existe ", clicado);
+					break;
+			}			
+
+			
+		}
+			
+
+	};
+	
+/************************************************************************************/
+/*                 clicar item de galeria                                           */	
+/************************************************************************************/		
+	function clicaritem(clicado) {
+		
+		console.log("clicar item ", clicado.parentNode.id);
+		/*
+		if (isMobile() == true) {
+			console.log("nos telemoveis não é visivel ");
+		
+		} else {*/
+		
+			indice = obterindice(clicado.id, "imggaleria");
+				
+			document.getElementById("myModal").style.display = "block";
+			document.getElementById("myImg").src = clicado.src;
+			document.getElementById("myImgOld").src = clicado.src;
+			document.getElementById("textofoto").innerHTML=document.getElementById(clicado.id).nextElementSibling.innerHTML
+
+			if (document.getElementById("textofoto").getElementsByClassName("prints").length>0) { 
+			
+				document.getElementById("prints").style.display="block";
+			
+			} else {
+			
+				document.getElementById("prints").style.display="none";
+			}
+			
+			
+			document.getElementById("myImg").classList.add("zoom-in");
+			setTimeout(function(){ document.getElementById("myImg").classList.remove("zoom-in")}, 500);
+		
+			validaindice();
+	/*	}*/
+	};
+	
+	
+/************************************************************************************/
+/*                 validastas pelo indice                                           */	
+/************************************************************************************/		
+	function validaindice () {
+	
+		
+		if (indice==0) {
+		
+		
+			console.log("esconder seta esquerda")
+			document.getElementById("esq").style.display="none";
+			
+			
+			}
+		else {
+			
+			document.getElementById("esq").style.display="block";
+			
+			}
+			
+			
+			
+		if (indice==document.getElementsByClassName( "imggaleria").length-1) {
+		
+		
+			console.log("esconder seta direita")
+			document.getElementById("dir").style.display="none";
+			
+			
+			}
+		else {
+			
+			document.getElementById("dir").style.display="block";
+			
+			}
+	
+	
+	
+	}
+
+
+/************************************************************************************/
+/*                 obter o indice                                                   */	
+/************************************************************************************/		
+	function obterindice(inId, inClass) {
+		
+		console.log("obter o indice do elemento ", inId, " para a class ", inClass);
+		
+		var grupo = document.getElementsByClassName(inClass);
+		
+		for (i = 0; i < grupo.length; i++) {
+			
+			if (grupo[i].id==inId) {
+				console.log("indice encontrado ", i, "de um total de ", document.getElementsByClassName(inClass).length);
+				return i;
+			}
+
+		}
+
+			
+	};
+/************************************************************************************/
+/*                 clicar para sair da imagem grande                                */	
+/************************************************************************************/		
+	function clicarmodal() {
+		
+		if (document.getElementById("textofoto").style.display=="block") {
+			
+			console.log("fechar informaçoes");
+			escondercaixainfo();
+		}
+		else {
+			console.log("sair do modal");
+			escondercaixainfo();
+			document.getElementById("myImg").classList.add("zoom-out");
+			setTimeout(function(){ document.getElementById("myModal").style.display="none"}, 500);
+			setTimeout(function(){ document.getElementById("myImg").classList.remove("zoom-out")}, 500);
+		}
+	};
+	
+/************************************************************************************/
+/*                 esconder submenus                                                */	
+/************************************************************************************/		
+	function escondersubmenus() {
+		
+		console.log("esconder submenus");
+		
+		var submenus=document.getElementsByClassName("submenuvisivel");
+		
+		for (i = 0; i < submenus.length; i++) {
+			
+			document.getElementsByClassName("submenuvisivel")[i].classList.add("submenuinvisivel");
+			document.getElementsByClassName("submenuvisivel")[i].classList.remove("submenuvisivel");
+
+		}
+		
+		
+
+	};
+/************************************************************************************/
+/*                 mostrar informações da foto                                      */	
+/************************************************************************************/		
+	function mostrarinfo() {
+		
+		console.log("mostrar informações da foto");
+		
+
+	};
+		
+
+/************************************************************************************/
+/*                 trocar imagens quando em modal                                   */	
+/************************************************************************************/		
+	function troca(direccao) {
+		
+		console.log("mostrar imagen da ", direccao);
+		console.log("indice ", indice, " indice antigo ", indiceold);
+		
+		escondercaixainfo();
+		
+		var indiceold = indice;
+		
+		void document.getElementById("myImg").classList;
+		
+		if (direccao == "esquerda") {
+		
+			if (indice>0) {
+			
+				indice--;
+				document.getElementById("myImg").classList.toggle("animationEsq");
+				document.getElementById("myImgOld").classList.toggle("oldanimationEsq");
+				setTimeout(function(){ document.getElementById("myImg").classList.remove("animationEsq")}, 1000);	
+				setTimeout(function(){ document.getElementById("myImgOld").classList.remove("oldanimationEsq")}, 1000);	
+			}
+			
+		} else {
+		
+			if (indice<document.getElementsByClassName("imggaleria").length-1) {
+
+				indice++;
+				document.getElementById("myImg").classList.toggle("animationDir");
+				document.getElementById("myImgOld").classList.toggle("oldanimationDir");
+				setTimeout(function(){ document.getElementById("myImg").classList.remove("animationDir")}, 1000);
+				setTimeout(function(){ document.getElementById("myImgOld").classList.remove("oldanimationDir")}, 1000);
+
+			}
+		}
+		
+		
+		console.log("indice ", indice, " indice antigo ", indiceold);
+		
+		document.getElementById("myImg").src = document.getElementsByClassName("imggaleria")[indice].src;
+		document.getElementById("textofoto").innerHTML=document.getElementsByClassName("imggaleria")[indice].nextElementSibling.innerHTML
+		document.getElementById("myImgOld").src = document.getElementsByClassName("imggaleria")[indiceold].src;
+
+		if (document.getElementById("textofoto").getElementsByClassName("prints").length>0) { 
+			
+			document.getElementById("prints").style.display="block";
+		
+		} else {
+		
+			document.getElementById("prints").style.display="none";
+		}
+			
+		validaindice();
+		
+	
+		
+	};
+
+/************************************************************************************/
+/*                 remove animacoes                                                 */	
+/************************************************************************************/		
+	function removeanimacao(objecto, animacao) {
+		
+		console.log("remover a animação ", animacao)
+		document.getElementById(objecto).classList.remove(animacao);
+
+	};
+	
+
+/************************************************************************************/
+/*                 ve se éstá a ser utilizado por um telemovel                      */	
+/************************************************************************************/			
+	function isMobile(){
+	
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+            return true
+       }
+       else{
+            return false
+       }
+    } 
+	
+	
+/************************************************************************************/
+/*                 obtem dados do servidor                                          */	
+/************************************************************************************/			
+
+		function Consulta(str) {
+	
+			var lang = navigator.language;
+			
+			fecharmenu();
+
+			
+			console.log("Consultar " + str + " na linguagem " + lang);
+			if (str.length==0)
+			  {  
+			  console.log("sem pedido");
+			  document.getElementById("interior").innerHTML="";
+			  return;
+			  }
+  
+
+			var xmlhttp=new XMLHttpRequest();
+			xmlhttp.onreadystatechange=function()
+				{
+				if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+				
+					console.log("servidor invocado ");
+					history.replaceState(str,"?q="+str,"?q="+str);
+					document.getElementById("interior").innerHTML=xmlhttp.responseText;
+					}
+				}
+			xmlhttp.open("GET","servnew.php?q="+str+"&linguagem="+lang,true);
+
+			xmlhttp.send();
+		};
+ 
+/************************************************************************************/
+/*                 obter o que vem od ecra                                          */	
+/************************************************************************************/			
+ 
+function showinicio()
+		{
+		var questao = window.location.search;
+		if (questao=="")
+			{
+			Consulta("mnnoticias");
+			}
+		else
+			{
+			console.log("invocar com o input ", questao);
+			var hquestao = location.hash;
+			var varhash = hquestao.slice(1);
+			var xmlhttp=new XMLHttpRequest();
+			xmlhttp.onreadystatechange=function()
+			  {
+				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+				{
+				history.replaceState("noticias","?q=noticias&linguagem="+lang);	
+				document.getElementById("interior").innerHTML=xmlhttp.responseText;	
+							}
+			  }					
+			xmlhttp.open("GET","servnew.php?q="+str+"&linguagem="+lang,true);
+			xmlhttp.send();	
+
+			
+			}
+
+		};
+/************************************************************************************/
+/*                 fechar o menu                                                    */	
+/************************************************************************************/			
+ 
+		function fecharmenu() {
+
+			console.log("fechar menus");
+			
+			document.getElementById("menu").classList.remove("menu--open");
+			document.getElementById("menu").classList.add("menu--closed");
+			submenuinvisivel();
+			escondersubmenus();		
+		
+		}
+
+/************************************************************************************/
+/*                 mostrar informações                                              */	
+/************************************************************************************/			
+ 		
+		function infofoto(informacao) {
+		
+			console.log("mostrar informações: ", informacao);
+			
+
+			if (document.getElementById("textofoto").getElementsByClassName(informacao).length>0) {
+			
+				if (document.getElementById("textofoto").style.display=="block") {
+			
+				
+					if (document.getElementById("textofoto").getElementsByClassName(informacao)[0].style.display=="block") {
+						
+						console.log("fechar ", informacao);
+						escondercaixainfo();
+						
+					} else {
+						
+						console.log("fechar todos mostrar ", informacao);				
+						esconderinfo();
+						document.getElementById("textofoto").getElementsByClassName(informacao)[0].style.display="block"
+						
+						if (informacao == "descricao" ||
+							informacao == "exif") {
+							
+							document.getElementById("textofoto").getElementsByClassName("nome")[0].style.display="block";	
+						
+						} else {
+						
+							if (document.getElementById("textofoto").getElementsByClassName("prints").length>0) {
+								document.getElementById("textofoto").getElementsByClassName("nome")[0].style.display="none";	
+							}
+							
+						}						
+					}
+						
+
+				} else {
+				
+					document.getElementById("textofoto").style.display="block";
+					document.getElementById("textofoto").getElementsByClassName(informacao)[0].style.display="block";	
+					
+					if (informacao == "descricao" ||
+						informacao == "exif") {
+						
+						document.getElementById("textofoto").getElementsByClassName("nome")[0].style.display="block";	
+					
+					} else {
+					
+						if (document.getElementById("textofoto").getElementsByClassName("prints").length>0) {
+							document.getElementById("textofoto").getElementsByClassName("nome")[0].style.display="none";	
+						}
+						
+					}	
+				}
+			}
+		}
+	
+
+
+/************************************************************************************/
+/*                 esconder caixa de informação informação                          */	
+/************************************************************************************/			
+ 		
+		function escondercaixainfo() {
+		
+			document.getElementById("textofoto").style.display="none";
+			esconderinfo();
+		}
+/************************************************************************************/
+/*                 esconder informação                                              */	
+/************************************************************************************/			
+ 		
+		function esconderinfo() {
+		
+			document.getElementById("textofoto").getElementsByClassName("descricao")[0].style.display="none";
+			document.getElementById("textofoto").getElementsByClassName("exif")[0].style.display="none";
+			
+			if (document.getElementById("textofoto").getElementsByClassName("prints").length>0) {
+			
+				document.getElementById("textofoto").getElementsByClassName("prints")[0].style.display="none";
+			}
+		}
+		
+	</script>
+	</body>
+</html> 

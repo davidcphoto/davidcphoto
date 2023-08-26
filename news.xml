@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<!--<noticia data="aaaa-mm-dd" pt="Titulo Portugues" en="Titulo em ingles" imagem="galeria/fotos/foto.jpg">
+		<texto linguagem="pt" fwasome="" link=""></texto>
+		<texto linguagem="pt"></texto>
+	</noticia> -->	
+	<noticia data="2022-01-20" pt="Primeira fotografia do ano" en="First photo of the year " imagem="galeria/fotos/MoinhodaMare1501202200036.jpg">
+		<texto linguagem="pt">Primeira fotografia de 2022.</texto>
+		<texto linguagem="en">First photo of 2022.</texto>
+		<texto linguagem="pt">Fotografia tirada em Corroios perto de casa numa manha de insonia que me fez sair de casa e visitar o moinho da maré de Corroios antes de tomar o pequeno almoço.</texto>
+		<texto linguagem="en">Photo taken in Corroios near my house on an insomniac morning that made me leave the house and visit the Corroios tide mill before having breakfast.</texto>
+	</noticia> 	
+	<noticia data="2021-10-30" pt="Fotografia partilhada pela Sigma Portugal" en="Photo shared by Sigma Portugal" imagem="galeria/fotos/CostadaCaparica0609202100026.jpg">
+		<texto linguagem="pt">Pela segunda vez a Sigma Portugal Partilha uma das minhas fotos na sua pagina do instagram.</texto>
+		<texto linguagem="en">For the second time Sigma Portugal shares one of my photos on its Instagram page.</texto>
+		<texto linguagem="pt">A primeira vez que uma das minhas fotos foi partilhada pela Sigma Portugal foi em Março quando após terem reparado na minha foto num hastag de partilhas de fotos que utilizam lentes Sigma.</texto>
+		<texto linguagem="en">The first time that one of my photos was shared by Sigma Portugal was in March when they noticed my photo in a photo sharing hastag that uses Sigma lenses.</texto>
+		<texto linguagem="pt" fwasome="fab fa-instagram" link="https://www.instagram.com/p/CO2TnwcsCR_/?utm_source=ig_web_copy_link">1ª Foto</texto>
+		<texto linguagem="en" fwasome="fab fa-instagram" link="https://www.instagram.com/p/CO2TnwcsCR_/?utm_source=ig_web_copy_link">#1 Photo</texto>
+		<texto linguagem="pt">A fotografia foi a primeira foto tirada após o desconfinamento, uma fotografia simples de um edificio industrial abandonado utilizando a minha sigma 12-24 e o meu filtro haida 150mm de 10 stops.</texto>
+		<texto linguagem="en">The photograph was the first photo taken after the deconfinement, a simple photograph of an abandoned industrial building using my 12-24 sigma and my 10 stops 150mm haida filter.</texto>
+		<texto linguagem="pt">A segunda fotografia foi tirada na costa da caparica utilizando também com a minha 12-24mm mas desta vez com um filtro de 6 ou 3 stops também da haida, não me lembro qual.</texto>
+		<texto linguagem="en">The second photo was taken in Costa da Caparica also using my 12-24mm but this time with a 6 or 3 stops filter also from Haida, I do not remember.</texto>
+		<texto linguagem="pt" fwasome="fab fa-instagram" link="https://www.instagram.com/p/CVnT60qILeC/?utm_source=ig_web_copy_link">2ª Foto</texto>
+		<texto linguagem="en" fwasome="fab fa-instagram" link="https://www.instagram.com/p/CVnT60qILeC/?utm_source=ig_web_copy_link">#2 Photo</texto>
+		<texto linguagem="pt">Ambas as fotos foram partilhadas após a minha autorização e agradeço à Sigma Portugal a Oportunidade para divulgar as minhas fotos.</texto>
+		<texto linguagem="en">Both photos were shared after my authorization and I thank Sigma Portugal for the opportunity to share my photos.</texto>
+	</noticia> 
+	<noticia data="2021-05-13" pt="Comprei uma nova lente Macro" en="I bought a new Macro lens" imagem="https://zyoptics.net/wp-content/uploads/2018/03/20mmf2_1-1-1.jpg">
+		<texto linguagem="pt">Sempre quis fazer fotografias macro com aplicações superiores a 1:1 e por isso acabei por comprar uma Mitakon Creator 20mm f/2 4x - 4.5x.</texto>
+		<texto linguagem="pt">Espero conseguir tirar fotos macro interessantes com a lente nova.</texto>
+		<texto linguagem="pt">Se conseguir fotos que considere interessantes eventualmente adicionarei uma nova galeria de fotografias onde possa exibir as fotografias criadas com esta nova lente macro.</texto>
+		<texto linguagem="en">I always wanted to do macro photography with applications greater than 1: 1 and that's why I ended up buying a Mitakon Creator 20mm f / 2 4x - 4.5x.</texto>
+		<texto linguagem="en">I hope to be able to take interesting macro photos with the new lens</texto>
+		<texto linguagem="en">If I get photos that I find interesting, eventually I will add a new photo gallery where I can display the photos created with this new macro lens. </texto>
+	</noticia>
+	<noticia data="2021-04-25" pt="Voltar a Sair" en="Back out" imagem="galeria/fotos/Edificio2404202100015-Editar.jpg">
+		<texto linguagem="pt">Portugal parece ter estabilizado os casos de covid e com isso as restições definidas para controlar a pandemia estão a começar a ser levantadas.</texto>
+		<texto linguagem="pt">Finalmente sai para fotografar. Para desenferrujar um pouco decidir fotografar um predio abandonado existente na zona do mercado da Romeira em Almada.</texto>
+		<texto linguagem="pt">Não tinha a certeza de que restrições é que ainda estavam em vigor por isso decidi que seria melhor fotografar algo perto e como o tempo não prometia muito decidi aproveitar as condições que tinha e procurar um edificio alto que me forçasse a apontar a camera para cima e assim apanhar o movimento das nuvens.</texto>
+		<texto linguagem="pt">Para fazer esta fotografia utilizei a um filtro de densidade neutra de 10 stops da haida com um adaptador especifico que permite ter filtros de 150mm na sigma 12-24 combinado com uma abertura pequena de f16 permitindo limitar a luz  que chegou ao sensor que foi compensada com uma exposição de 30 segundos. Permitindo assim o efeito de arrasto nas nuvens.</texto>
+		<texto linguagem="en">Portugal seems to have stabilized cases of covid and with that the restrictions set to control the pandemic are starting to be lifted.</texto>
+		<texto linguagem="en">Finally comes out to shoot. To brush up a bit deciding shoot an existing abandoned building in the market area of Romeira in Almada.</texto>
+		<texto linguagem="en">I wasn’t sure what restrictions were still in place so I decided it would be better to photograph something close and as the weather didn’t promise much I decided to take advantage of the conditions I had and look for a tall building that would force me to point the camera up and so catch the movement of the clouds. </texto>
+		<texto linguagem="en">To make this photo I used a 10 stops neutral density filter from haida with a specific adapter that allows to have 150mm filters in the sigma 12-24 combined with a small aperture of f16 allowing to limit the light that reached the sensor that was compensated with 30-second exposure. Thus allowing the drag effect on the clouds. </texto>
+	</noticia>
+	<noticia data="2021-04-07" pt="Novo Site" en="New website">
+		<texto linguagem="pt">Andava descontente com o meu site e decidi que iria aproveitar alguns dias de férias para criar um novo site que agora disponibilizo.</texto>
+		<texto linguagem="pt">O novo site apresenta uma imagem mais limpa e um pouco mais standardizada.</texto>
+		<texto linguagem="pt">Espero que gostem.</texto>
+		<texto linguagem="en">I was unhappy with my website and decided I would take a few days to create a new website that now make available. </texto>
+		<texto linguagem="en">The new website presents a cleaner and slightly more standardized image. </texto>
+		<texto linguagem="en">Hope you like it.</texto>
+	</noticia>
+	<noticia data="2021-03-22" pt="Adicionada mais uma action para photoshop" en="Added another photohop action" imagem="galeria/site/Estrelinha.jpg">
+		<texto linguagem="pt">Aproveitei para brincar um pouco mais com as actions do photoshop e criei esta nova action para criar um efeito de pintura inacabada</texto>
+		<texto linguagem="pt">O efeito pode ser visto na foto desta noticia. Aconselho a pintarem um pouco a mascara para criar uma pintura unica</texto>
+		<texto linguagem="pt">I took the opportunity to play a little more with the photoshop actions and created this new action to create an unfinished painting effect</texto>
+		<texto linguagem="pt">The effect can be seen in the photo of this news. I advise you to paint the mask a little to create a unique painting </texto>
+	</noticia> 
+	<noticia data="2021-03-18" pt="Download de acções para o photoshop" en="Photoshop actions Download">
+		<texto linguagem="pt">Nova categoria adicionada ao menu. Esta nova categoria permite disponibilizar para download uma acção de photoshop que gera as camadas necessarias para o tratamento de frequency Separation.</texto>
+		<texto linguagem="pt">Espero poder adicionar no futuro:</texto>
+		<texto linguagem="pt"> - Outras acções</texto>
+		<texto linguagem="pt"> - Pinceis</texto>
+		<texto linguagem="pt"> - Wallpappers</texto>
+		<texto linguagem="pt"> - Outros downloads que me lembre.</texto>
+	
+		<texto linguagem="en">New category added to the menu. This new category allows to make available for download a photoshop action that generates the necessary layers for the treatment of frequency separation.</texto>
+		<texto linguagem="en">I hope to be able to add:</texto>
+		<texto linguagem="en"> - Other actions</texto>
+		<texto linguagem="en"> - Brushes</texto>
+		<texto linguagem="en"> - Wallpappers</texto>
+		<texto linguagem="en"> - Other downloads that I remember in the future.</texto>
+	</noticia>
+	<noticia data="2021-02-14" pt="Exposição no programa Photography online" en="Exposer in Photography online" imagem="galeria/fotos/Arvore2101201800001.jpg">
+		<texto linguagem="pt">Umas das minhas fotografias foi exibida no programa Photography Online no youtube. Podem ver o episodio carregando ou ir directamente para a minha fotografia carregando nos lins em baixo.</texto> 
+		<texto linguagem="en">One of my photographs was shown on the Photography Online program on youtube. You can watch the episode or go directly to my photo on the links below. </texto> 
+		<texto linguagem="pt" fwasome="fab fa-youtube" link="https://youtu.be/ebx0z7wNo0s">Episodio completo</texto> 
+		<texto linguagem="pt" fwasome="fab fa-youtube" link="https://youtu.be/ebx0z7wNo0s?t=1357">Directo para a minha fotografia aos 22:37.</texto>
+		<texto linguagem="en" fwasome="fab fa-youtube" link="https://youtu.be/ebx0z7wNo0s">Full Episode</texto>
+		<texto linguagem="en" fwasome="fab fa-youtube" link="https://youtu.be/ebx0z7wNo0s?t=1357">Direct link to my photo at 22:37.</texto>
+	</noticia> 
+	<noticia data="2021-02-10" pt="Confinamento longe de terminar" en="Confinement far from over" imagem="galeria/site/Smoke.png">
+		<texto linguagem="pt">O Confinamento contínua em Portugal, continuamos sem poder sair e a unica forma de fotografar é em casa.</texto> 
+		<texto linguagem="pt">A maioria das vezes tento arranjar alguma coisa por casa que possa fotografar, uma natureza morta ou fotografia de produto, mas desta vez lembrei-me de fotografar fumo.</texto> 
+		<texto linguagem="pt">Enquanto via o fumo a rodopiar percebia que na realidade não estava verdadeiramente a fotografar fumo mas sim o elemento ar. </texto> 
+		<texto linguagem="pt">Dá-me vontade de tentar criar uma serie de fotografias sobre os 4 elementos... Vou ver de pensar o que poderei fazer para representar os 4 elementos mas de qualquer forma penso que só poderei completar a serie quando tiver libredade de movimento.</texto> 
+		<texto linguagem="en">Continued confinement in Portugal, we are still unable to leave and the only way to photograph is at home.</texto> 
+		<texto linguagem="en">Most of the time I try to get something around the house that I can photograph, still life or product photography, but this time I remembered to photograph smoke.</texto> 
+		<texto linguagem="en">As I watched the smoke swirl, I realized that I was not really photographing smoke, but the air element.</texto> 
+		<texto linguagem="pt">It makes me want to try to create a series of photographs about the 4 elements ... I will see to think what I can do to represent the 4 elements but anyway I think I can only complete the series when I have freedom of movement.</texto> 
+	</noticia>
+	<noticia data="2021-01-17" pt="Novo Confinamento em Portugal" en="New Confinement in Portugal" imagem="galeria/site/Produto.jpg">
+		<texto linguagem="pt">O país encontra-se fechado mais uma vez pelo menos durante um mês. Nada que não fosse previsivel com o aumento de casos de Covid em portugal.</texto>
+		<texto linguagem="pt">Até aqui as restrições limitaram se às deslocações fora de cocelho e recolhimento obrigatorio após as 13h aos fins de semana, o que já era bastante impeditivo para fotografia de paisagens, por isso tenho fotografado muito pouco quase exclusivamente fotografia de produto onde tenho muito a melhorar.</texto>
+		<texto linguagem="pt">O país encontra-se fechado mais uma vez pelo menos durante um mês. Nada que não fosse previsivel com o aumento de casos de Covid em portugal.</texto>
+		<texto linguagem="pt">Que este momento da história rapidamente passe para que possamos voltar a ter a liberdade para nos deslocarmos livremente e assim possa voltar a fotografar.</texto>
+		<texto linguagem="pt">Agora tenho andado a pensar em comprar uma impressora, talvez se a comprar começe a tentar vender algumas das minhas fotos atravez do site, mas isso e algo que ainda não determinei, pode ser que alguem queira comprar uma das minhas fotos.</texto>
+		<texto linguagem="en">The country is closed again for at least a month. Nothing that was not predictable with the increase in cases of Covid in Portugal.</texto>
+		<texto linguagem="en">So far the restrictions have been limited to travel outside the hut and compulsory withdrawal after 1 pm on weekends, which was already quite a hindrance for landscape photography, so I have been photographing very little almost exclusively product photography where I have a lot to improve.</texto>
+		<texto linguagem="en">This whole time without shooting makes me stay with G.A.S. the so-called Gear Aquisition Syndrom and I've been buying some tools to help me improve my photography. A new Tripod, a backpack, more recently a new monitor to help me edit images where the limitations of my laptop screen were very visible.</texto>
+		<texto linguagem="en">May this moment of history quickly pass so that we can again have the freedom to move freely and so we can start photographing again.</texto>
+		<texto linguagem="en">Now I have been thinking about buying a printer, maybe if I buy it I will try to sell some of my photos through the website, but that is something that I have not yet determined, it may be that someone wants to buy one of my photos.</texto>
+	</noticia>
+	<noticia data="2020-12-05" pt="Novas fotos de paisagem" en="New Landscape Photos" imagem="galeria/site/NewLandscapes.png">
+		<texto linguagem="pt">Adicionadas novas fotografias na galeria de paisagens. Fotografias na praia, cidade e até um cacilheiro a passar em frente a um sol nascente.</texto>
+		<texto linguagem="pt">Fotografias tiradas nos momentos possiveis entre o horario de trabalho, restrições causadas pelo Covid-19 e a minha vida pessoal.</texto>
+		<texto linguagem="pt">Esperemos que 2021 nos devolva agumas das liberdades que têm sido limitadas este ano.</texto>
+		<texto linguagem="en">New photos added to the landscape gallery. Photographs on the beach, city and even a cacilheiro passing in front of a rising sun.</texto>
+		<texto linguagem="en">Photographs taken at the possible times between working hours, restrictions caused by Covid-19 and my personal life.</texto>
+		<texto linguagem="en">Hopefully, 2021 will give us back some of the freedoms that have been limited this year.</texto>
+	</noticia>
+	<noticia data="2020-11-25" pt="Halloween" en="Halloween" imagem="galeria/site/Halloween.jpg">
+		<texto linguagem="pt">Adicionada uma nova galeria com retratos de halloween.</texto>
+		<texto linguagem="pt">Fotografias tiradas para o halloween de 2020.</texto>
+		<texto linguagem="pt">Com as limitações de deslocação devido ao covid-19 a melhor forma de continuar a fotografar é em casa, o halloween é sempre uma boa desculpa para criar imagens.</texto>
+		<texto linguagem="en">Added a new gallery with halloween portraits.</texto>
+		<texto linguagem="en">Photographs taken for Halloween 2020.</texto>
+		<texto linguagem="en">With travel limitations due to covid-19 the best way to continue shooting is at home, halloween is always a good excuse to create images.</texto>
+	</noticia>
+	<noticia data="2020-10-11" pt="Adicionadas 2 novas fotografias de paisagem" en="Added 2 new landscape photos" imagem="galeria/fotos/Landscape1209202000027.jpg">
+		<texto linguagem="pt">Adicionei duas fotografias novas na galeria de paisagem.</texto>
+		<texto linguagem="pt">A primeira foi tirada numa passagem pelas praias da Costa da Caparica ao por do Sol tendo como primeiro plano umas placas de madeira que puxam a atenção para um barco de pesca que divide a paisagem com o por do sol.</texto>
+		<texto linguagem="pt">A segunda fotografia foi tirada em cacilhas, do lado sul do rio tejo para quem está em lisboa. Uma longa exposição permite uma sensação de calma e isolamento a uma extrutra submerça que existe no rio.</texto>
+		<texto linguagem="en">I added two new photos to the landscape gallery.</texto>
+		<texto linguagem="en">The first was taken in a passage along the beaches of Costa da Caparica at sunset with wooden boards as the foreground that draw attention to a fishing boat that divides the landscape with the sunset.</texto>
+		<texto linguagem="en">The second photograph was taken in cacilhas, on the south side of the Tagus River for those in Lisbon. A long exposure allows a feeling of calm and isolation to a submerged submerge that exists in the river</texto>
+	</noticia>
+	<noticia data="2020-07-27" pt="A minha primeira fotografia de Via Lactea" en="My first photograph of Milky Way" imagem="galeria/fotos/ViaLactia2507202000006.jpg">
+		<texto linguagem="pt">Sempre quis fotografar a Via Lactea, o sabado passado consegui.</texto>
+		<texto linguagem="pt">Desloquei me até ao cabo Espichel para me afastar da poluição luminosa mas valeu a pena e para a primeira foto não me parece mal.</texto>
+		<texto linguagem="pt">Utilizei a minha velha 28mm f1.8 porque é a minha lente wide angle mais luminosa por 15s e ISO 1250.</texto>
+		<texto linguagem="pt">Estou desejoso de voltar a fotografar a Via Láctea, para a proxima vou tentar arranjar um primeiro plano mais interessante.</texto>
+		<texto linguagem="en">Always wanted to photograph the Milkey Way, last Saturday did it.</texto>
+		<texto linguagem="en">I went to Cape Espichel to get away from light pollution but it was worth it and for the first photo it doesn't look bad.</texto>
+		<texto linguagem="en">I used my old 28mm f1.8 because it is my brightest wide angle lens for 15s and ISO 1250.</texto>
+		<texto linguagem="en">I am looking forward to photographing the Milky Way again, for the next one I will try to arrange a more interesting foreground.</texto>
+	</noticia>
+	<noticia data="2020-07-22" pt="Saudades de fotografar" en="Miss shooting" imagem="galeria/fotos/OlhodeBoi0707202000018-2.jpg">
+		<texto linguagem="pt">Desde que as restrições causadas pelo covid-19 começaram a ser levantadas tenho tido vontade de fotografar mas ceus limpos não criam fotografias de paisagem que verdadeiramente impressionem, de qualquer forma fui a Cacilhas fazer umas fotos.</texto>
+		<texto linguagem="pt">Tenho pensado que preciso de procurar novos sitios para fotografar, mas com o virus não sei quando poderei verdadeiramente explorar novas paisagens.</texto>
+		<texto linguagem="en">Since the restrictions caused by the covid-19 started to be lifted, I have been wanting to photograph but clean skies do not create landscape photographs that truly impress, anyway I went to Cacilhas to take some photos.</texto>
+		<texto linguagem="en">I have thought that I need to look for new places to photograph, but with the virus I do not know when I will be able to truly explore new landscapes.</texto>
+	</noticia>
+	<noticia data="2020-05-24" pt="Vinho tinto Porta da Ravessa" en="Porta da Ravessa red wine" imagem="galeria/fotos/tinto2105202000015.jpg">
+		<texto linguagem="pt">Adicinei uma fotografia de um vinho Porta da Ravessa na galeria de produto.</texto>
+		<texto linguagem="pt">No meio da pandemia covid-19 a forma de continuar a fotografar apenas tem em casa. a grande maioria da fotografias tiradas são apenas experiencias, texturas e fotos abstratas tiradas para praticar mas aqui fica uma nova foto de produto.</texto>
+		<texto linguagem="en">I added a photograph of a Porta da Ravessa wine in the product gallery.</texto>
+		<texto linguagem="en">In the middle of the covid-19 pandemic, the only way to continue photographing is at home. the vast majority of the photographs taken are just experiments, textures and abstract photos taken to practice but here is a new product photo.</texto>
+	</noticia>
+	<noticia data="2020-05-19" pt="Novo website" en="New website" imagem="galeria/site/BWLandscape.jpg">
+		<texto linguagem="pt">A meio da quarentena do Covid-19 decidi aproveitar o meu tempo livre para refazer o meu site. Estava um pouco farto do aspecto do site queria dar lhe um ar mais leve e ao mesmo tempo torna-lo mais simples.</texto>
+		<texto linguagem="pt">Com o isolamento não tenho fotografado, escrevendo o site é uma forma de continuar a dedicar me à fotografia indirectamente.</texto>
+		<texto linguagem="pt">Esperemos que esta pandemia passe depressa para que possamos retornar as novas vidas e eu possa voltar a dedicar me a fotografia.</texto>
+		<texto linguagem="en">Halfway through the Covid-19 quarantine I decided to take advantage of my free time to redo my website. I was a bit fed up of the site's appearance wanted make it lighter and at the same time make it simpler.</texto>
+		<texto linguagem="en">With the isolation I have not photographed, writing the website is a way to continue to dedicate myself to photography indirectly.</texto>
+		<texto linguagem="en">Hopefully this pandemic will pass quickly so that we can return to our lives and I can dedicate myself to photography again.</texto>
+	</noticia>
+</noticias>
