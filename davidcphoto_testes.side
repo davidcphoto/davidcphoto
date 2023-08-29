@@ -2,7 +2,7 @@
   "id": "3c93c1ca-cfc1-485e-acee-b7c6e0dcc22c",
   "version": "2.0",
   "name": "davidcphoto_testes",
-  "url": "https://davidcphoto.com",
+  "url": "https://davidcphoto.com/testes/",
   "tests": [{
     "id": "93c1e545-07a8-4b73-8454-59029cc6d097",
     "name": "Contactos",
@@ -80,17 +80,17 @@
     "id": "84700e72-2b05-4793-ae15-76a9b0161258",
     "name": "Links",
     "commands": [{
-      "id": "258f3ca3-9fa9-45a2-b6e3-815b6f45173c",
+      "id": "234738aa-e10e-498e-ae6e-b7d6aa430c4f",
       "comment": "",
       "command": "open",
-      "target": "/?q=mnnoticias",
+      "target": "/testes/?q=mnnoticias",
       "targets": [],
       "value": ""
     }, {
-      "id": "0cad2315-0498-400a-b819-d8683f0abecc",
+      "id": "553a5eca-7085-4dc4-ac63-f5b604870444",
       "comment": "",
       "command": "setWindowSize",
-      "target": "550x692",
+      "target": "1382x754",
       "targets": [],
       "value": ""
     }, {
@@ -136,6 +136,6 @@
     "timeout": 300,
     "tests": ["93c1e545-07a8-4b73-8454-59029cc6d097"]
   }],
-  "urls": ["https://davidcphoto.com/"],
+  "urls": ["https://davidcphoto.com/", "https://davidcphoto.com/testes/"],
   "plugins": []
 }
