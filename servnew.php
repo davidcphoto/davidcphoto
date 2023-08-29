@@ -181,7 +181,7 @@ function email($l)
 	
 	echo '<div class="itemgaleria" style="animation: de-baixo 2.5s;"><h2><i class="far fa-envelope"></i></h2><p><a target="_blank" href="mailto:david@davidcphoto.com">david@davidcphoto.com</a></p></div>';
 	echo '<div class="itemgaleria" style="animation: de-baixo 3s;"><h2><i class="fab fa-instagram"></i></h2><p><a target="_blank" href="https://www.instagram.com/davidcantophotography/">@davidcantophotography</a></p></div>';
-	echo '<div class="itemgaleria" style="animation: de-baixo 3.5s;"><h2><i class="fab fa-twitter"></i></h2><p><a target="_blank" href="https://twitter.com/Davidcantophoto">@Davidcantophoto</a></p></div>';
+	// echo '<div class="itemgaleria" style="animation: de-baixo 3.5s;"><h2><i class="fab fa-twitter"></i></h2><p><a target="_blank" href="https://twitter.com/Davidcantophoto">@Davidcantophoto</a></p></div>';
 	echo '<div class="itemgaleria" style="animation: de-baixo 4s;"><h2><i class="fab fa-facebook-square"></i></h2><p><a target="_blank" href="https://www.facebook.com/DavidCantoPhotography/">David Canto Photography</a></p></div>';
 	echo '<div class="itemgaleria" style="animation: de-baixo 4.5s;"><h2><i class="fab fa-facebook-square"></i></h2><p><a target="_blank" href="https://www.facebook.com/davidcantophoto/">Paisagens</a></p></div>';
 	echo '<div class="itemgaleria" style="animation: de-baixo 5s;"><h2><i class="fab fa-facebook-square"></i></h2><p><a target="_blank" href="https://www.facebook.com/fotografiaconcertos">Fotografia de Concertos</a></p></div>';

@@ -1,0 +1,141 @@
+{
+  "id": "3c93c1ca-cfc1-485e-acee-b7c6e0dcc22c",
+  "version": "2.0",
+  "name": "davidcphoto_testes",
+  "url": "https://davidcphoto.com",
+  "tests": [{
+    "id": "93c1e545-07a8-4b73-8454-59029cc6d097",
+    "name": "Contactos",
+    "commands": [{
+      "id": "ff0da5a7-0f43-40b6-837d-eb54b3446eb8",
+      "comment": "",
+      "command": "open",
+      "target": "/testes/?q=mnnoticias",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0a0109c6-96bd-4a22-bceb-305b3a514ace",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x754",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d1006990-10cf-4bbc-adc4-fcaf069aaf0b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.button > span:nth-child(3)",
+      "targets": [
+        ["css=.button > span:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='menu']/div/span[3]", "xpath:idRelative"],
+        ["xpath=//span[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "99bb7814-d441-4ca6-b302-40bd65e46a60",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menuitem:nth-child(2)",
+      "targets": [
+        ["linkText=Informações", "linkText"],
+        ["css=.menuitem:nth-child(2)", "css:finder"],
+        ["xpath=//a[@onclick=\"clicar('mninfo')\"]", "xpath:attributes"],
+        ["xpath=//div[@id='menu']/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Informações')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ddef971b-6621-4f39-992d-8e56d3733962",
+      "comment": "",
+      "command": "click",
+      "target": "css=.far",
+      "targets": [
+        ["css=.far", "css:finder"],
+        ["xpath=//a[@id='mncontactos']/i", "xpath:idRelative"],
+        ["xpath=//a[3]/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "24757ec7-297a-4080-a26f-b91bf24235ca",
+      "comment": "",
+      "command": "//verifyElementPresent",
+      "target": "css=.fa-twitter:nth-child(1)",
+      "targets": [],
+      "value": "false"
+    }, {
+      "id": "74c66190-6908-4401-b653-dd2f731fe33b",
+      "comment": "",
+      "command": "verifyElementNotPresent",
+      "target": "css=.fa-twitter:nth-child(1)",
+      "targets": [
+        ["css=.fa-twitter:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='interior']/div/div[3]/h2/i", "xpath:idRelative"],
+        ["xpath=//div[3]/h2/i", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "84700e72-2b05-4793-ae15-76a9b0161258",
+    "name": "Links",
+    "commands": [{
+      "id": "258f3ca3-9fa9-45a2-b6e3-815b6f45173c",
+      "comment": "",
+      "command": "open",
+      "target": "/?q=mnnoticias",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0cad2315-0498-400a-b819-d8683f0abecc",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "95161e84-8acd-4614-b993-3155d8982ff7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.button > span:nth-child(3)",
+      "targets": [
+        ["css=.button > span:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='menu']/div/span[3]", "xpath:idRelative"],
+        ["xpath=//span[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cbf8a464-651b-41ac-bc8d-664b2b28ad5b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-link",
+      "targets": [
+        ["css=.fa-link", "css:finder"],
+        ["xpath=//div[@id='menu']/div[2]/a[4]/i", "xpath:idRelative"],
+        ["xpath=//body/div/div/div/div[2]/a[4]/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e0a410d5-b030-4e49-bde7-850e17037900",
+      "comment": "",
+      "command": "verifyElementNotPresent",
+      "target": "css=.fa-twitter",
+      "targets": [
+        ["css=.fa-twitter", "css:finder"],
+        ["xpath=//a[@id='mntwitter']/i", "xpath:idRelative"],
+        ["xpath=//div[5]/a[3]/i", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "0ba9d977-604b-43e7-bdff-5bdb355d7b51",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["93c1e545-07a8-4b73-8454-59029cc6d097"]
+  }],
+  "urls": ["https://davidcphoto.com/"],
+  "plugins": []
+}
