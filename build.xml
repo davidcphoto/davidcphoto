@@ -1,0 +1,5 @@
+<fileset dir="${server.src}" casesensitive="yes">
+  <include name="**/*.xml"/>
+  <include name="**/*.html"/>
+  <include name="**/*.php"/>
+</fileset>
